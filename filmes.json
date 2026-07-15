@@ -1,1514 +1,1514 @@
 [
   {
-    "id": 1273221,
-    "title": "Todo Mundo em Pânico (Scary Movie)",
-    "poster": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
-    "logo": null,
-    "rating": 5.4,
-    "year": "2026"
-  },
-  {
-    "id": 1084244,
-    "title": "Toy Story 5",
-    "poster": "https://image.tmdb.org/t/p/w500/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
-    "logo": null,
-    "rating": 7.427,
-    "year": "2026"
-  },
-  {
-    "id": 1081003,
-    "title": "Supergirl",
-    "poster": "https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
-    "logo": null,
-    "rating": 6.226,
-    "year": "2026"
-  },
-  {
-    "id": 1275779,
-    "title": "Dia D (Disclosure Day)",
-    "poster": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
-    "logo": null,
-    "rating": 6.7,
-    "year": "2026"
-  },
-  {
-    "id": 1315772,
-    "title": "Minions & Monstros (Minions & Monsters)",
-    "poster": "https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
-    "logo": null,
-    "rating": 6.353,
-    "year": "2026"
-  },
-  {
-    "id": 1327819,
-    "title": "Cara de Um, Focinho de Outro (Hoppers)",
-    "poster": "https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
-    "logo": null,
-    "rating": 8.202,
-    "year": "2026"
-  },
-  {
-    "id": 15255,
-    "title": "O Lutador (Undisputed II: Last Man Standing)",
-    "poster": "https://image.tmdb.org/t/p/w500/2c0mcPVyWQM92vjys5pZsrmLjJv.jpg",
-    "logo": null,
-    "rating": 7.377,
-    "year": "2006"
-  },
-  {
-    "id": 9316,
-    "title": "Ong-Bak: Guerreiro Sagrado (องค์บาก)",
-    "poster": "https://image.tmdb.org/t/p/w500/656do53t3n3FqkOJZZ249izDMn5.jpg",
-    "logo": null,
-    "rating": 7.156,
-    "year": "2003"
-  },
-  {
-    "id": 1138194,
-    "title": "Herege ",
-    "poster": "https://image.tmdb.org/t/p/w500/j5e2YS1PRUVC1YgSool0JJyNLxJ.jpg",
-    "logo": null,
-    "rating": 6.976,
-    "year": "2024"
-  },
-  {
-    "id": 9919,
-    "title": "Como Perder um Homem em 10 Dias (How to Lose a Guy in 10 Days)",
-    "poster": "https://image.tmdb.org/t/p/w500/qxwgxjFUtZ3qf7vib9na6tdPfwT.jpg",
-    "logo": null,
-    "rating": 6.871,
-    "year": "2003"
-  },
-  {
-    "id": 515001,
-    "title": "Jojo Rabbit",
-    "poster": "https://image.tmdb.org/t/p/w500/tW7uzT7lRcBA00NJw2W2SDSKjCv.jpg",
-    "logo": null,
-    "rating": 7.982,
-    "year": "2019"
-  },
-  {
-    "id": 25018,
-    "title": "O Massacre da Serra Elétrica 3 (Leatherface: The Texas Chainsaw Massacre III)",
-    "poster": "https://image.tmdb.org/t/p/w500/vM53yvJTJj6HWBWlbduxeMgQYcQ.jpg",
-    "logo": null,
-    "rating": 5.415,
-    "year": "1990"
-  },
-  {
-    "id": 1226578,
-    "title": "Longlegs - Vínculo Mortal (Longlegs)",
-    "poster": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
-    "logo": null,
-    "rating": 6.525,
-    "year": "2024"
+    "player": "https://hugh.cdn.rumble.cloud/video/fwe2/4e/s8/2/c/T/-/F/cT-FA.aaa.mp4",
+    "id": "1273221",
+    "nome": "Todo Mundo em Pânico",
+    "capa": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
+  },
+  {
+    "player": "https://hugh.cdn.rumble.cloud/video/fww1/7c/s8/2/o/J/-/F/oJ-FA.aaa.mp4",
+    "id": "1084244",
+    "nome": "Toy Story 5",
+    "capa": "https://image.tmdb.org/t/p/w500/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/I/A/-/F/IA-FA.aaa.mp4",
+    "id": "1081003",
+    "nome": "Supergirl",
+    "capa": "https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+    "categoria": "Ação",
+    "idade": "L"
+  },
+  {
+    "player": "https://hugh.cdn.rumble.cloud/video/fwe2/a8/s8/2/i/P/-/F/iP-FA.aaa.mp4",
+    "id": "1275779",
+    "nome": "Dia D",
+    "capa": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
+  },
+  {
+    "player": "https://hugh.cdn.rumble.cloud/video/fww1/ab/s8/2/c/m/-/F/cm-FA.aaa.mp4",
+    "id": "1315772",
+    "nome": "Minions & Monstros",
+    "capa": "https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
+  },
+  {
+    "player": "http://fcoidok.cisantkdh.com:80/vod/6014AFACC29E4BB2B8F5FDF3CE3D730A_media.mp4",
+    "id": "1327819",
+    "nome": "Cara de Um, Focinho de Outro",
+    "capa": "https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/4094F2073C5745ED9C5869E8017CF4F4_media.mp4",
+    "id": "15255",
+    "nome": "O Lutador",
+    "capa": "https://image.tmdb.org/t/p/w500/2c0mcPVyWQM92vjys5pZsrmLjJv.jpg",
+    "categoria": "Ação",
+    "idade": "L"
+  },
+  {
+    "player": "http://fcoidok.cisantkdh.com:80/vod/28C9435083314904ABE5947D2964F4DF_media.mp4",
+    "id": "9316",
+    "nome": "Ong-Bak: Guerreiro Sagrado",
+    "capa": "https://image.tmdb.org/t/p/w500/656do53t3n3FqkOJZZ249izDMn5.jpg",
+    "categoria": "Ação",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/FADFAE4E201940CC997EFE14ADA943F9_media.mp4",
+    "id": "1138194",
+    "nome": "Herege",
+    "capa": "https://image.tmdb.org/t/p/w500/j5e2YS1PRUVC1YgSool0JJyNLxJ.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/14C327B6A1084F6EA64429BC6934AF91_media.mp4",
+    "id": "9919",
+    "nome": "Como Perder um Homem em 10 Dias",
+    "capa": "https://image.tmdb.org/t/p/w500/qxwgxjFUtZ3qf7vib9na6tdPfwT.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/3C6CBB3CBACF421CAE257397077EE07E_media.mp4",
+    "id": "515001",
+    "nome": "Jojo Rabbit",
+    "capa": "https://image.tmdb.org/t/p/w500/tW7uzT7lRcBA00NJw2W2SDSKjCv.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/6BB10D22BCFB4EEDB7F4F72720AB48D1_media.mp4",
+    "id": "25018",
+    "nome": "O Massacre da Serra Elétrica 3",
+    "capa": "https://image.tmdb.org/t/p/w500/vM53yvJTJj6HWBWlbduxeMgQYcQ.jpg",
+    "categoria": "Terror",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com:80/vod/F2D945CA8F224E2582D649B9269EFAD1_media.mp4",
+    "id": "1226578",
+    "nome": "Longlegs - Vínculo Mortal",
+    "capa": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
+    "categoria": "Crime",
+    "idade": "L"
   },
   {
-    "id": 459003,
-    "title": " Mavka: Aventura na Floresta (Мавка: Лісова пісня)",
-    "poster": "https://image.tmdb.org/t/p/w500/adyriBXnBuhdRgAllYAurnDQtQb.jpg",
-    "logo": null,
-    "rating": 7.162,
-    "year": "2023"
+    "player": "http://awnagk.gviudclrb.com:80/vod/339C13B24FD94B0C85099753CE5011C4_media.mp4",
+    "id": "459003",
+    "nome": "Mavka: Aventura na Floresta",
+    "capa": "https://image.tmdb.org/t/p/w500/adyriBXnBuhdRgAllYAurnDQtQb.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 331482,
-    "title": "Adoráveis Mulheres (Little Women)",
-    "poster": "https://image.tmdb.org/t/p/w500/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
-    "logo": null,
-    "rating": 7.851,
-    "year": "2019"
+    "player": "http://awnagk.gviudclrb.com:80/vod/F6C665479B8546B2A40AE531FF37A823_media.mp4",
+    "id": "331482",
+    "nome": "Adoráveis Mulheres",
+    "capa": "https://image.tmdb.org/t/p/w500/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 829280,
-    "title": "Enola Holmes 2",
-    "poster": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
-    "logo": null,
-    "rating": 7.416,
-    "year": "2022"
+    "player": "http://awnagk.gviudclrb.com:80/vod/F448210671AD47F3B279FD0871B0B2DB_media.mp4",
+    "id": "829280",
+    "nome": "Enola Holmes 2",
+    "capa": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 497582,
-    "title": "Enola Holmes 1",
-    "poster": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
-    "logo": null,
-    "rating": 7.225,
-    "year": "2020"
+    "player": "http://awnagk.gviudclrb.com:80/vod/6BE01BF8F4A24FB5AAC8C3F33E52A101_media.mp4",
+    "id": "497582",
+    "nome": "Enola Holmes 1",
+    "capa": "https://image.tmdb.org/t/p/w500/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 460465,
-    "title": "Mortal Kombat 2021",
-    "poster": "https://image.tmdb.org/t/p/w500/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",
-    "logo": null,
-    "rating": 7.05,
-    "year": "2021"
+    "player": "http://awnagk.gviudclrb.com:80/vod/F495B134225C4A42A13D1BE2B3E0E358_media.mp4",
+    "id": "460465",
+    "nome": "Mortal Kombat 2021",
+    "capa": "https://image.tmdb.org/t/p/w500/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 567609,
-    "title": "Casamento Sangrento (Ready or Not)",
-    "poster": "https://image.tmdb.org/t/p/w500/k5dJuAdjv1wCq2Vzj1GZfwGmLoU.jpg",
-    "logo": null,
-    "rating": 7.088,
-    "year": "2019"
+    "player": "http://awnagk.gviudclrb.com:80/vod/5AA68609ACD749489D215A4429166F2C_media.mp4",
+    "id": "567609",
+    "nome": "Casamento Sangrento",
+    "capa": "https://image.tmdb.org/t/p/w500/k5dJuAdjv1wCq2Vzj1GZfwGmLoU.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 2062,
-    "title": "Ratatouille",
-    "poster": "https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
-    "logo": null,
-    "rating": 7.845,
-    "year": "2007"
+    "player": "http://awnagk.gviudclrb.com:80/vod/12FA975656A84800ADCC065AF7F5DFD2_media.mp4",
+    "id": "2062",
+    "nome": "Ratatouille",
+    "capa": "https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 1202033,
-    "title": "Enola Holmes 3",
-    "poster": "https://image.tmdb.org/t/p/w500/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",
-    "logo": null,
-    "rating": 6.974,
-    "year": "2026"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/5F066D9FCA0A4495BB76E469CD8F4B45_media.mp4",
+    "id": "1202033",
+    "nome": "Enola Holmes 3",
+    "capa": "https://image.tmdb.org/t/p/w500/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 985939,
-    "title": "A Queda",
-    "poster": "https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
-    "logo": null,
-    "rating": 7.143,
-    "year": "2022"
+    "player": "http://awnagk.gviudclrb.com:80/vod/25C6AC5CEA8D46B68EDC3F7DF3035902_media.mp4",
+    "id": "985939",
+    "nome": "A Queda",
+    "capa": "https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
   },
   {
-    "id": 1368314,
-    "title": "Passageiro do Mal (Passenger)",
-    "poster": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-    "logo": null,
-    "rating": 7.171,
-    "year": "2026"
+    "player": "https://awnagk.gviudclrb.com/vod/091D54B94D254DD7BABE8AC7890B58BF_media.mp4",
+    "id": "1368314",
+    "nome": "Passageiro do Mal",
+    "capa": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1439930,
-    "title": " O Justiceiro: Uma Última Morte (The Punisher: One Last Kill)",
-    "poster": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-    "logo": null,
-    "rating": 8.331,
-    "year": "2026"
+    "player": "http://awnagk.gviudclrb.com:80/vod/6B2C5227432648D480033EA8170E57D0_media.mp4",
+    "id": "1439930",
+    "nome": "O Justiceiro: Uma Última Morte",
+    "capa": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 931285,
-    "title": "Mortal Kombat 2 (Mortal Kombat II)",
-    "poster": "https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
-    "logo": null,
-    "rating": 7.979,
-    "year": "2026"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/3865F7E1715B4836B9DA7099174985C8_media.mp4",
+    "id": "931285",
+    "nome": "Mortal Kombat 2",
+    "capa": "https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 936075,
-    "title": "Michael",
-    "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-    "logo": null,
-    "rating": 8.701,
-    "year": "2026"
+    "player": "http://awnagk.gviudclrb.com:80/vod/08618807224E41DFB18C07E7621D764B_media.mp4",
+    "id": "936075",
+    "nome": "Michael",
+    "capa": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+    "categoria": "Música",
+    "idade": "L"
   },
   {
-    "id": 1266127,
-    "title": "Casamento Sangrento: A Viúva (Ready or Not: Here I Come)",
-    "poster": "https://image.tmdb.org/t/p/w500/u6OwPW7mO8nrtJoC27W541bRQ8F.jpg",
-    "logo": null,
-    "rating": 7.629,
-    "year": "2026"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/2C03DD436E17470B951E5A5807222182_media.mp4",
+    "id": "1266127",
+    "nome": "Casamento Sangrento: A Viúva",
+    "capa": "https://image.tmdb.org/t/p/w500/u6OwPW7mO8nrtJoC27W541bRQ8F.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
   },
   {
-    "id": 1339713,
-    "title": "Obsessão (Obsession)",
-    "poster": "https://image.tmdb.org/t/p/w500/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
-    "logo": null,
-    "rating": 8.3,
-    "year": "2026"
+    "player": "http://awnagk.gviudclrb.com:80/vod/1364EC066FAB4D48B15FB116414090E8_media.mp4",
+    "id": "1339713",
+    "nome": "Obsessão",
+    "capa": "https://image.tmdb.org/t/p/w500/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 858024,
-    "title": "Hamnet: A Vida Antes de Hamlet (Hamnet)",
-    "poster": "https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
-    "logo": null,
-    "rating": 7.7,
-    "year": "2025"
+    "player": "http://awnagk.gviudclrb.com:80/vod/C8D1F453BD7340E69E30D12ED0EDD1C1_media.mp4",
+    "id": "858024",
+    "nome": "Hamnet: A Vida Antes de Hamlet",
+    "capa": "https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 1007757,
-    "title": "Como Mágica (Swapped)",
-    "poster": "https://image.tmdb.org/t/p/w500/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",
-    "logo": null,
-    "rating": 8.9,
-    "year": "2026"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/9FE8F14D8430459EAEA6AD5BE40C8272_media.mp4",
+    "id": "1007757",
+    "nome": "Como Mágica",
+    "capa": "https://image.tmdb.org/t/p/w500/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 1620551,
-    "title": "Sinta a Minha Voz (Non abbiam bisogno di parole)",
-    "poster": "https://image.tmdb.org/t/p/w500/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
-    "logo": null,
-    "rating": 6.9,
-    "year": "2026"
+    "player": "http://awnagk.gviudclrb.com:80/vod/F4A9ADC610EF41CC9B8947640977E345_media.mp4",
+    "id": "1620551",
+    "nome": "Sinta a Minha Voz",
+    "capa": "https://image.tmdb.org/t/p/w500/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
+    "categoria": "Música",
+    "idade": "L"
   },
   {
-    "id": 30675,
-    "title": "Planeta Hulk (Planet Hulk)",
-    "poster": "https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg",
-    "logo": null,
-    "rating": 7.1,
-    "year": "2010"
+    "player": "https://fcoidok.cisantkdh.com/vod/03D7DA8AD12740F2BFA7FD256C74EB13_media.mp4",
+    "id": "30675",
+    "nome": "Planeta Hulk",
+    "capa": "https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 100402,
-    "title": "Capitão América: O Soldado Invernal (Captain America: The Winter Soldier)",
-    "poster": "https://image.tmdb.org/t/p/w500/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
-    "logo": null,
-    "rating": 7.656,
-    "year": "2014"
+    "player": "https://fcoidok.cisantkdh.com/vod/E5DE17C9652F43179F729647FAA0070F_media.mp4",
+    "id": "100402",
+    "nome": "Capitão América: O Soldado Invernal",
+    "capa": "https://image.tmdb.org/t/p/w500/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 634492,
-    "title": "Madame Teia (Madame Web)",
-    "poster": "https://image.tmdb.org/t/p/w500/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg",
-    "logo": null,
-    "rating": 5.287,
-    "year": "2024"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/101540F3C63A4CE897AD2F002D6ECDD1_media.mp4",
+    "id": "634492",
+    "nome": "Madame Teia",
+    "capa": "https://image.tmdb.org/t/p/w500/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 271110,
-    "title": "Capitão América: Guerra Civil (Captain America: Civil War)",
-    "poster": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-    "logo": null,
-    "rating": 7.4,
-    "year": "2016"
+    "player": "https://fcoidok.cisantkdh.com/vod/0FF49AA0F62443B2824E1488C2A58844_media.mp4",
+    "id": "271110",
+    "nome": "Capitão América: Guerra Civil",
+    "capa": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 284052,
-    "title": "Doutor Estranho (Doctor Strange)",
-    "poster": "https://image.tmdb.org/t/p/w500/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
-    "logo": null,
-    "rating": 7.423,
-    "year": "2016"
+    "player": "https://fcoidok.cisantkdh.com/vod/FF7E833A5E6644A986A5DC7AF8DE6916_media.mp4",
+    "id": "284052",
+    "nome": "Doutor Estranho",
+    "capa": "https://image.tmdb.org/t/p/w500/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 1724,
-    "title": "O Incrível Hulk (The Incredible Hulk)",
-    "poster": "https://image.tmdb.org/t/p/w500/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
-    "logo": null,
-    "rating": 6.246,
-    "year": "2008"
+    "player": "http://awnagk.gviudclrb.com:80/vod/4096A8DA48EB4B33BF4B81C0FB272C5E_media.mp4",
+    "id": "1724",
+    "nome": "O Incrível Hulk",
+    "capa": "https://image.tmdb.org/t/p/w500/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 429617,
-    "title": "Homem-Aranha: Longe de Casa (Spider-Man: Far From Home)",
-    "poster": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
-    "logo": null,
-    "rating": 7.395,
-    "year": "2019"
+    "player": "http://awnagk.gviudclrb.com:80/vod/56FA43EF5081443BB1352C2F49DA6E46_media.mp4",
+    "id": "429617",
+    "nome": "Homem-Aranha: Longe de Casa",
+    "capa": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 539972,
-    "title": "Kraven: O Caçador (Kraven the Hunter)",
-    "poster": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
-    "logo": null,
-    "rating": 6.437,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com:80/vod/39C0F896C3C54DB4A8465D0E64509F26_media.mp4",
+    "id": "539972",
+    "nome": "Kraven: O Caçador",
+    "capa": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 505642,
-    "title": "Pantera Negra: Wakanda para Sempre (Black Panther: Wakanda Forever)",
-    "poster": "https://image.tmdb.org/t/p/w500/6RB4JTvfeT3FVaZtWHySEryA6LV.jpg",
-    "logo": null,
-    "rating": 7.005,
-    "year": "2022"
+    "player": "http://awnagk.gviudclrb.com:80/vod/F100F3A8707F4C7F91500FC55F0F1535_media.mp4",
+    "id": "505642",
+    "nome": "Pantera Negra: Wakanda para Sempre",
+    "capa": "https://image.tmdb.org/t/p/w500/6RB4JTvfeT3FVaZtWHySEryA6LV.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 320288,
-    "title": "X-Men: Fênix Negra (Dark Phoenix)",
-    "poster": "https://image.tmdb.org/t/p/w500/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
-    "logo": null,
-    "rating": 6.0,
-    "year": "2019"
+    "player": "http://awnagk.gviudclrb.com:80/vod/E6A7DF1B85C9487EB0D0842FF9775469_media.mp4",
+    "id": "320288",
+    "nome": "X-Men: Fênix Negra",
+    "capa": "https://image.tmdb.org/t/p/w500/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 11237,
-    "title": "Anaconda 2: A Caçada Pela Orquídea Sangrenta",
-    "poster": "https://image.tmdb.org/t/p/w500/oshh9GiPALO94RkleWRrfX8mrIG.jpg",
-    "logo": null,
-    "rating": 5.498,
-    "year": "2004"
+    "player": "http://awnagk.gviudclrb.com:80/vod/3BBEB59ADC7F4A1F87FA54DFE59EFD9C_media.mp4",
+    "id": "11237",
+    "nome": "Anaconda 2: A Caçada Pela Orquídea Sangrenta",
+    "capa": "https://image.tmdb.org/t/p/w500/oshh9GiPALO94RkleWRrfX8mrIG.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 14161,
-    "title": "2012",
-    "poster": "https://image.tmdb.org/t/p/w500/3OyC6YVOrTqXpSjgXQ1L8LDrUFp.jpg",
-    "logo": null,
-    "rating": 5.886,
-    "year": "2009"
+    "player": "https://fcoidok.cisantkdh.com/vod/1DB333D58602406EA774AB3DD95AD70E_media.mp4",
+    "id": "14161",
+    "nome": "2012",
+    "capa": "https://image.tmdb.org/t/p/w500/3OyC6YVOrTqXpSjgXQ1L8LDrUFp.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 524434,
-    "title": "Eternos",
-    "poster": "https://image.tmdb.org/t/p/w500/2IgZIYa8iTQuLNIcVERwXmh8pUj.jpg",
-    "logo": null,
-    "rating": 6.769,
-    "year": "2021"
+    "player": "https://fcoidok.cisantkdh.com/vod/B16C0CD289E24BF98643BA2F4405FBCD_media.mp4",
+    "id": "524434",
+    "nome": "Eternos",
+    "capa": "https://image.tmdb.org/t/p/w500/2IgZIYa8iTQuLNIcVERwXmh8pUj.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 693134,
-    "title": "Duna: Parte 2 ( Duna: Parte Dois )",
-    "poster": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
-    "logo": null,
-    "rating": 8.128,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com:80/vod/17A070DB0BD8486CBE0AB83286AC34E4_media.mp4",
+    "id": "693134",
+    "nome": "Duna: Parte 2",
+    "capa": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 823464,
-    "title": "Godzilla e Kong: O Novo Império",
-    "poster": "https://image.tmdb.org/t/p/w500/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",
-    "logo": null,
-    "rating": 7.048,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com/vod/7C1AC26F67FC4FA480E8929D06B46DA2_media.mp4",
+    "id": "823464",
+    "nome": "Godzilla e Kong: O Novo Império",
+    "capa": "https://image.tmdb.org/t/p/w500/fWSGD2yrzz6hscocnMD8AEXIThk.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 105864,
-    "title": "O Bom Dinossauro (The Good Dinosaur)",
-    "poster": "https://image.tmdb.org/t/p/w500/h85jXVapDFhsDvlsrmuMJkfvXSj.jpg",
-    "logo": null,
-    "rating": 6.748,
-    "year": "2015"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/4C14FBA792664836A60DBEDBD6EC74B4_media.mp4",
+    "id": "105864",
+    "nome": "O Bom Dinossauro",
+    "capa": "https://image.tmdb.org/t/p/w500/h85jXVapDFhsDvlsrmuMJkfvXSj.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 566525,
-    "title": "Shang-Chi e a Lenda dos Dez Anéis (Shang-Chi and the Legend of the Ten Rings)",
-    "poster": "https://image.tmdb.org/t/p/w500/fojnVuvt181l7LxsJDxCQfWSKfh.jpg",
-    "logo": null,
-    "rating": 7.493,
-    "year": "2021"
+    "player": "https://fcoidok.cisantkdh.com/vod/65A5018C507343D3B810CC44C32A0D4F_media.mp4",
+    "id": "566525",
+    "nome": "Shang-Chi e a Lenda dos Dez Anéis",
+    "capa": "https://image.tmdb.org/t/p/w500/fojnVuvt181l7LxsJDxCQfWSKfh.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 497698,
-    "title": "Viúva Negra (Black Widow)",
-    "poster": "https://image.tmdb.org/t/p/w500/lrJ9QI2HMbO8N2S2r2v7fjtou5c.jpg",
-    "logo": null,
-    "rating": 7.164,
-    "year": "2021"
+    "player": "https://fcoidok.cisantkdh.com/vod/2EB480591B2B4EEAA3DAD46086ECE3E9_media.mp4",
+    "id": "497698",
+    "nome": "Viúva Negra",
+    "capa": "https://image.tmdb.org/t/p/w500/lrJ9QI2HMbO8N2S2r2v7fjtou5c.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 284053,
-    "title": "Thor: Ragnarok",
-    "poster": "https://image.tmdb.org/t/p/w500/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
-    "logo": null,
-    "rating": 7.582,
-    "year": "2017"
+    "player": "https://fcoidok.cisantkdh.com/vod/73318F993B5A4BC39EC03598E032F10A_media.mp4",
+    "id": "284053",
+    "nome": "Thor: Ragnarok",
+    "capa": "https://image.tmdb.org/t/p/w500/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 76338,
-    "title": "Thor: O Mundo Sombrio (Thor: The Dark World)",
-    "poster": "https://image.tmdb.org/t/p/w500/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
-    "logo": null,
-    "rating": 6.511,
-    "year": "2013"
+    "player": "https://fcoidok.cisantkdh.com/vod/85091A5ECE2948D28AEE952502F20A11_media.mp4",
+    "id": "76338",
+    "nome": "Thor: O Mundo Sombrio",
+    "capa": "https://image.tmdb.org/t/p/w500/9qdqXIx2neypuT1kWKCTI2vsO4q.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 447365,
-    "title": "Guardiões da Galáxia: Vol. 3 (Guardians of the Galaxy Vol. 3)",
-    "poster": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
-    "logo": null,
-    "rating": 7.932,
-    "year": "2023"
+    "player": "https://fcoidok.cisantkdh.com/vod/0355C8A9978F41598815AA715C11A6EB_media.mp4",
+    "id": "447365",
+    "nome": "Guardiões da Galáxia: Vol. 3",
+    "capa": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 283995,
-    "title": "Guardiões da Galáxia - Vol. 2 (Guardians of the Galaxy Vol. 2)",
-    "poster": "https://image.tmdb.org/t/p/w500/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
-    "logo": null,
-    "rating": 7.6,
-    "year": "2017"
+    "player": "https://fcoidok.cisantkdh.com/vod/CEE61FFAB6D6402599E63F68E2B4D00D_media.mp4",
+    "id": "283995",
+    "nome": "Guardiões da Galáxia - Vol. 2",
+    "capa": "https://image.tmdb.org/t/p/w500/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 118340,
-    "title": "Guardiões da Galáxia 1",
-    "poster": "https://image.tmdb.org/t/p/w500/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
-    "logo": null,
-    "rating": 7.906,
-    "year": "2014"
+    "player": "https://fcoidok.cisantkdh.com/vod/0CE9857C1B444F21B2A17801CE889E48_media.mp4",
+    "id": "118340",
+    "nome": "Guardiões da Galáxia 1",
+    "capa": "https://image.tmdb.org/t/p/w500/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 173897,
-    "title": "Resident Evil 6: O Capítulo Final - Resident Evil: The Final Chapter",
-    "poster": "https://image.tmdb.org/t/p/w500/kgkPkKPjDOfBjlUyWBg3GQNwBer.jpg",
-    "logo": null,
-    "rating": 6.104,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/1361C6D938E6451F8ACDC42FEFBC53F1_media.mp4",
+    "id": "173897",
+    "nome": "Resident Evil 6: O Capítulo Final - Resident Evil: The Final Chapter",
+    "capa": "https://image.tmdb.org/t/p/w500/kgkPkKPjDOfBjlUyWBg3GQNwBer.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 71679,
-    "title": "Resident Evil 5: Retribuição - Resident Evil: Retribution",
-    "poster": "https://image.tmdb.org/t/p/w500/tMrLVjpLSvjtQ4Bd7v34SwqQ7bb.jpg",
-    "logo": null,
-    "rating": 5.827,
-    "year": "2012"
+    "player": "http://fcoidok.cisantkdh.com/vod/31E410BD30B549C1A43C90D162F3CC9F_media.mp4",
+    "id": "71679",
+    "nome": "Resident Evil 5: Retribuição - Resident Evil: Retribution",
+    "capa": "https://image.tmdb.org/t/p/w500/tMrLVjpLSvjtQ4Bd7v34SwqQ7bb.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 35791,
-    "title": "Resident Evil 4: Recomeço - Resident Evil: Afterlife ",
-    "poster": "https://image.tmdb.org/t/p/w500/eLUc5to0p5LhbXJMXtgltg7P4g4.jpg",
-    "logo": null,
-    "rating": 6.054,
-    "year": "2010"
+    "player": "http://fcoidok.cisantkdh.com/vod/0AA225F22E87434E8A55330B2E63AA33_media.mp4",
+    "id": "35791",
+    "nome": "Resident Evil 4: Recomeço - Resident Evil: Afterlife",
+    "capa": "https://image.tmdb.org/t/p/w500/eLUc5to0p5LhbXJMXtgltg7P4g4.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 7737,
-    "title": "Resident Evil 3: A Extinção - Resident Evil: Extinction",
-    "poster": "https://image.tmdb.org/t/p/w500/lKdzoUvMsriRrtfK6e5uw2XpXtn.jpg",
-    "logo": null,
-    "rating": 6.3,
-    "year": "2007"
+    "player": "http://fcoidok.cisantkdh.com/vod/D9A85C80D60F4258AA26523FD52B0652_media.mp4",
+    "id": "7737",
+    "nome": "Resident Evil 3: A Extinção - Resident Evil: Extinction",
+    "capa": "https://image.tmdb.org/t/p/w500/lKdzoUvMsriRrtfK6e5uw2XpXtn.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1577,
-    "title": "Resident Evil 2: Apocalipse - Resident Evil: Apocalypse",
-    "poster": "https://image.tmdb.org/t/p/w500/r8q9pCcpzclyg2NjOt7DRbHRvG9.jpg",
-    "logo": null,
-    "rating": 6.362,
-    "year": "2004"
+    "player": "http://fcoidok.cisantkdh.com/vod/53E26F0EAE664FA89E77215AE66B12B3_media.mp4",
+    "id": "1577",
+    "nome": "Resident Evil 2: Apocalipse - Resident Evil: Apocalypse",
+    "capa": "https://image.tmdb.org/t/p/w500/r8q9pCcpzclyg2NjOt7DRbHRvG9.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1576,
-    "title": "Resident Evil: O Hóspede Maldito - Resident Evil",
-    "poster": "https://image.tmdb.org/t/p/w500/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg",
-    "logo": null,
-    "rating": 6.665,
-    "year": "2002"
+    "player": "http://fcoidok.cisantkdh.com/vod/81D497BFCE0949D19B2D5EAB79B77DC7_media.mp4",
+    "id": "1576",
+    "nome": "Resident Evil: O Hóspede Maldito - Resident Evil",
+    "capa": "https://image.tmdb.org/t/p/w500/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 346672,
-    "title": "Anjos da Noite: Guerras de Sangue (Underworld: Blood Wars)",
-    "poster": "https://image.tmdb.org/t/p/w500/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg",
-    "logo": null,
-    "rating": 5.922,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/BB369BB1F62741598F4B62689D580061_media.mp4",
+    "id": "346672",
+    "nome": "Anjos da Noite: Guerras de Sangue",
+    "capa": "https://image.tmdb.org/t/p/w500/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 52520,
-    "title": "Anjos da Noite: O Despertar (Underworld: Awakening)",
-    "poster": "https://image.tmdb.org/t/p/w500/paHlMTDna5yyjdgK8SWcScvj4gy.jpg",
-    "logo": null,
-    "rating": 6.334,
-    "year": "2012"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/69DEE09546A640AA8C74EDF5B6B5547F_media.mp4",
+    "id": "52520",
+    "nome": "Anjos da Noite: O Despertar",
+    "capa": "https://image.tmdb.org/t/p/w500/paHlMTDna5yyjdgK8SWcScvj4gy.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 12437,
-    "title": "Anjos da Noite: A Rebelião (Underworld: Rise of the Lycans)",
-    "poster": "https://image.tmdb.org/t/p/w500/528X7QClKw4xFH7Vfj8iYS4TTNg.jpg",
-    "logo": null,
-    "rating": 6.5,
-    "year": "2009"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/CCC16021E1804636B0194302E1E0E9E4_media.mp4",
+    "id": "12437",
+    "nome": "Anjos da Noite: A Rebelião",
+    "capa": "https://image.tmdb.org/t/p/w500/528X7QClKw4xFH7Vfj8iYS4TTNg.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 834,
-    "title": "Anjos da Noite: A Evolução (Underworld: Evolution)",
-    "poster": "https://image.tmdb.org/t/p/w500/bY6zZqmZoADDUUvA2WHl1gcGf6O.jpg",
-    "logo": null,
-    "rating": 6.606,
-    "year": "2006"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/1A7B2E386172445591010EAE57CBCF64_media.mp4",
+    "id": "834",
+    "nome": "Anjos da Noite: A Evolução",
+    "capa": "https://image.tmdb.org/t/p/w500/bY6zZqmZoADDUUvA2WHl1gcGf6O.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 277,
-    "title": "Anjos da Noite Underworld",
-    "poster": "https://image.tmdb.org/t/p/w500/4DraJB84CY1UX6IKEjdQbWEJcUQ.jpg",
-    "logo": null,
-    "rating": 6.854,
-    "year": "2003"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/A22ABBECA3BF47F291B575B77ABC3D85_media.mp4",
+    "id": "277",
+    "nome": "Anjos da Noite Underworld",
+    "capa": "https://image.tmdb.org/t/p/w500/4DraJB84CY1UX6IKEjdQbWEJcUQ.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 177572,
-    "title": "Operação Big Hero (Big Hero 6)",
-    "poster": "https://image.tmdb.org/t/p/w500/5EodFesjReSDlX1c0I5ANZijBFy.jpg",
-    "logo": null,
-    "rating": 7.726,
-    "year": "2014"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/722AD04F580B455B83C3015519F33AE0_media.mp4",
+    "id": "177572",
+    "nome": "Operação Big Hero",
+    "capa": "https://image.tmdb.org/t/p/w500/5EodFesjReSDlX1c0I5ANZijBFy.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 533535,
-    "title": "Deadpool e Wolverine",
-    "poster": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
-    "logo": null,
-    "rating": 7.58,
-    "year": "2024"
+    "player": "https://fcoidok.cisantkdh.com/vod/8E7A7DC5F3184FFC8463752B296BA84A_media.mp4",
+    "id": "533535",
+    "nome": "Deadpool e Wolverine",
+    "capa": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 580489,
-    "title": "Venom: Tempo de Carnificina (Venom: Let There Be Carnage)",
-    "poster": "https://image.tmdb.org/t/p/w500/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
-    "logo": null,
-    "rating": 6.742,
-    "year": "2021"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/DCECE287056D40F5892BFD9202EA686F_media.mp4",
+    "id": "580489",
+    "nome": "Venom: Tempo de Carnificina",
+    "capa": "https://image.tmdb.org/t/p/w500/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 335983,
-    "title": "Venom",
-    "poster": "https://image.tmdb.org/t/p/w500/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg",
-    "logo": null,
-    "rating": 6.8,
-    "year": "2018"
+    "player": "https://fcoidok.cisantkdh.com/vod/BBA8592B801246D582592152F14E55C6_media.mp4",
+    "id": "335983",
+    "nome": "Venom",
+    "capa": "https://image.tmdb.org/t/p/w500/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 985939,
-    "title": "A Queda (Fall)",
-    "poster": "https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
-    "logo": null,
-    "rating": 7.143,
-    "year": "2022"
+    "player": "https://fcoidok.cisantkdh.com/vod/25C6AC5CEA8D46B68EDC3F7DF3035902_media.mp4",
+    "id": "985939",
+    "nome": "A Queda",
+    "capa": "https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
   },
   {
-    "id": 713704,
-    "title": "A Morte Do Demônio: A Ascensão",
-    "poster": "https://image.tmdb.org/t/p/w500/pYHypEGMKtFTSQqfWC6IJFeaz1J.jpg",
-    "logo": null,
-    "rating": 6.942,
-    "year": "2023"
+    "player": "https://1a-1791.com/video/s8/2/b/Q/L/U/bQLUu.gaa.mp4",
+    "id": "713704",
+    "nome": "A Morte Do Demônio: A Ascensão",
+    "capa": "https://image.tmdb.org/t/p/w500/pYHypEGMKtFTSQqfWC6IJFeaz1J.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 439079,
-    "title": "A Freira",
-    "poster": "https://image.tmdb.org/t/p/w500/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg",
-    "logo": null,
-    "rating": 5.9,
-    "year": "2018"
+    "player": "http://fcoidok.cisantkdh.com/vod/A297384F09FD4FE1B3457634CF9E17FE_media.mp4",
+    "id": "439079",
+    "nome": "A Freira",
+    "capa": "https://image.tmdb.org/t/p/w500/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 407436,
-    "title": "Mogli: Entre Dois Mundos",
-    "poster": "https://image.tmdb.org/t/p/w500/9j7VmIA7SB6aDmEpy055jq8ClJe.jpg",
-    "logo": null,
-    "rating": 6.475,
-    "year": "2018"
+    "player": "http://awnagk.gviudclrb.com/vod/C2797F268AF142D18E2F661121F01857_media.mp4",
+    "id": "407436",
+    "nome": "Mogli: Entre Dois Mundos",
+    "capa": "https://image.tmdb.org/t/p/w500/9j7VmIA7SB6aDmEpy055jq8ClJe.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 278927,
-    "title": "Mogli: O Menino Lobo",
-    "poster": "https://image.tmdb.org/t/p/w500/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg",
-    "logo": null,
-    "rating": 6.876,
-    "year": "2016"
+    "player": "http://awnagk.gviudclrb.com:80/vod/7985D1950C3C4968B7513CAEA0901950_media.mp4",
+    "id": "278927",
+    "nome": "Mogli: O Menino Lobo",
+    "capa": "https://image.tmdb.org/t/p/w500/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 335797,
-    "title": "Sing - Quem Canta Seus Males Espanta (Sing)",
-    "poster": "https://image.tmdb.org/t/p/w500/rkPf3AH4DPJC1T26T8CwAjBHHvc.jpg",
-    "logo": null,
-    "rating": 7.125,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com/vod/251454F04BAA4464A31BB2A9C5350538_media.mp4",
+    "id": "335797",
+    "nome": "Sing - Quem Canta Seus Males Espanta",
+    "capa": "https://image.tmdb.org/t/p/w500/rkPf3AH4DPJC1T26T8CwAjBHHvc.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 337404,
-    "title": "Cruella",
-    "poster": "https://image.tmdb.org/t/p/w500/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg",
-    "logo": null,
-    "rating": 7.973,
-    "year": "2021"
+    "player": "http://awnagk.gviudclrb.com/vod/125DA0CC1A284312BB9B5BCC8718B20F_media.mp4",
+    "id": "337404",
+    "nome": "Cruella",
+    "capa": "https://image.tmdb.org/t/p/w500/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 43947,
-    "title": "Doce Vingança (I Spit on Your Grave)",
-    "poster": "https://image.tmdb.org/t/p/w500/3Awd26Ktx3E9VuIcHkRcIIIp9G0.jpg",
-    "logo": null,
-    "rating": 6.508,
-    "year": "2010"
+    "player": "http://fcoidok.cisantkdh.com/vod/75233AEC2D8F4174A938F60622A01569_media.mp4",
+    "id": "43947",
+    "nome": "Doce Vingança",
+    "capa": "https://image.tmdb.org/t/p/w500/3Awd26Ktx3E9VuIcHkRcIIIp9G0.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
   },
   {
-    "id": 23823,
-    "title": "Pânico Na Floresta 3",
-    "poster": "https://image.tmdb.org/t/p/w500/nFpU0naw8VeaaoWhXRla05WjyTm.jpg",
-    "logo": null,
-    "rating": 5.7,
-    "year": "2009"
+    "player": "https://fcoidok.cisantkdh.com/vod/655613B7BD854375B4F08BBC6EF8DEC1_media.mp4",
+    "id": "23823",
+    "nome": "Pânico Na Floresta 3",
+    "capa": "https://image.tmdb.org/t/p/w500/nFpU0naw8VeaaoWhXRla05WjyTm.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 13186,
-    "title": "Pânico Na Floresta 2",
-    "poster": "https://image.tmdb.org/t/p/w500/4Ra0ejDcncJTZJfHOVRV2bm4DMd.jpg",
-    "logo": null,
-    "rating": 6.2,
-    "year": "2007"
+    "player": "https://fcoidok.cisantkdh.com/vod/AA1494D7F58C4558AF05C854620081A8_media.mp4",
+    "id": "13186",
+    "nome": "Pânico Na Floresta 2",
+    "capa": "https://image.tmdb.org/t/p/w500/4Ra0ejDcncJTZJfHOVRV2bm4DMd.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 882598,
-    "title": "Sorria",
-    "poster": "https://image.tmdb.org/t/p/w500/3LfJ1kQZv6OX687rJMOAMzFJlc9.jpg",
-    "logo": null,
-    "rating": 6.673,
-    "year": "2022"
+    "player": "https://fcoidok.cisantkdh.com/vod/5E538DC96A864750ADE676EB0AFE79F2_media.mp4",
+    "id": "882598",
+    "nome": "Sorria",
+    "capa": "https://image.tmdb.org/t/p/w500/3LfJ1kQZv6OX687rJMOAMzFJlc9.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 10066,
-    "title": "A Casa De Cera",
-    "poster": "https://image.tmdb.org/t/p/w500/eQlJHrEDEocVpVofwMeJCRpw8vE.jpg",
-    "logo": null,
-    "rating": 6.037,
-    "year": "2005"
+    "player": "http://fcoidok.cisantkdh.com/vod/747900002EA24BF283A1CB12120BD3EF_media.mp4",
+    "id": "10066",
+    "nome": "A Casa De Cera",
+    "capa": "https://image.tmdb.org/t/p/w500/eQlJHrEDEocVpVofwMeJCRpw8vE.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 216015,
-    "title": "Cinquenta Tons De Cinza",
-    "poster": "https://image.tmdb.org/t/p/w500/fAfsfaRyQV5LKNvYoqlav0Gr3uC.jpg",
-    "logo": null,
-    "rating": 5.867,
-    "year": "2015"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/9D7497D77F8A4236B171AA1311F862C7_media.mp4",
+    "id": "216015",
+    "nome": "Cinquenta Tons De Cinza",
+    "capa": "https://image.tmdb.org/t/p/w500/fAfsfaRyQV5LKNvYoqlav0Gr3uC.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 50620,
-    "title": "A Saga Crepúsculo: Amanhecer - Parte 2",
-    "poster": "https://image.tmdb.org/t/p/w500/1clnx7FymVEo1NC3Yikf1GrEfq7.jpg",
-    "logo": null,
-    "rating": 6.455,
-    "year": "2012"
+    "player": "http://fcoidok.cisantkdh.com/vod/7A0FE5AEE0DF4733809F6FEBF8344DFB_media.mp4",
+    "id": "50620",
+    "nome": "A Saga Crepúsculo: Amanhecer - Parte 2",
+    "capa": "https://image.tmdb.org/t/p/w500/1clnx7FymVEo1NC3Yikf1GrEfq7.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 50619,
-    "title": "A Saga Crepúsculo: Amanhecer - Parte 1",
-    "poster": "https://image.tmdb.org/t/p/w500/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg",
-    "logo": null,
-    "rating": 6.188,
-    "year": "2011"
+    "player": "https://fcoidok.cisantkdh.com/vod/1B9D6FB8E23D4A40B8119902FDBF5965_media.mp4",
+    "id": "50619",
+    "nome": "A Saga Crepúsculo: Amanhecer - Parte 1",
+    "capa": "https://image.tmdb.org/t/p/w500/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 24021,
-    "title": "A Saga Crepúsculo: Eclipse",
-    "poster": "https://image.tmdb.org/t/p/w500/a8qPjwfKA1MwjEoVPhTf1ptVzdE.jpg",
-    "logo": null,
-    "rating": 6.192,
-    "year": "2010"
+    "player": "https://1a-1791.com/video/s8/2/J/h/e/-/Jhe-u.caa.mp4",
+    "id": "24021",
+    "nome": "A Saga Crepúsculo: Eclipse",
+    "capa": "https://image.tmdb.org/t/p/w500/a8qPjwfKA1MwjEoVPhTf1ptVzdE.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 18239,
-    "title": "A Saga Crepúsculo: Lua Nova",
-    "poster": "https://image.tmdb.org/t/p/w500/z39dbVwa1iIihdUDHGiRy4tc2Ov.jpg",
-    "logo": null,
-    "rating": 5.989,
-    "year": "2009"
+    "player": "https://fcoidok.cisantkdh.com/vod/2784CBD42BDE46F0BC1F3222F4D34BA9_media.mp4",
+    "id": "18239",
+    "nome": "A Saga Crepúsculo: Lua Nova",
+    "capa": "https://image.tmdb.org/t/p/w500/z39dbVwa1iIihdUDHGiRy4tc2Ov.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 8966,
-    "title": "Twilight - Crepúsculo 1",
-    "poster": "https://image.tmdb.org/t/p/w500/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg",
-    "logo": null,
-    "rating": 6.282,
-    "year": "2008"
+    "player": "http://awnagk.gviudclrb.com:80/vod/04512E7983B142E394ADDB3D4E1D4BAE_media.mp4",
+    "id": "8966",
+    "nome": "Twilight - Crepúsculo 1",
+    "capa": "https://image.tmdb.org/t/p/w500/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 166426,
-    "title": "Piratas Do Caribe: A Vingança De Salazar",
-    "poster": "https://image.tmdb.org/t/p/w500/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
-    "logo": null,
-    "rating": 6.661,
-    "year": "2017"
+    "player": "http://awnagk.gviudclrb.com:80/vod/83BC8DA2304044D58EF9E609995BF2BF_media.mp4",
+    "id": "166426",
+    "nome": "Piratas Do Caribe: A Vingança De Salazar",
+    "capa": "https://image.tmdb.org/t/p/w500/1bXv1lIkXE1TXYsyd6HHQr4dfw4.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 1865,
-    "title": "Piratas Do Caribe: Navegando Em Águas Misteriosas",
-    "poster": "https://image.tmdb.org/t/p/w500/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
-    "logo": null,
-    "rating": 6.571,
-    "year": "2011"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/02C641E3732F4A5AAF91677C44AFBF05_media.mp4",
+    "id": "1865",
+    "nome": "Piratas Do Caribe: Navegando Em Águas Misteriosas",
+    "capa": "https://image.tmdb.org/t/p/w500/blt7kBXEk1HgJjCTusaUMQ7BCTY.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 285,
-    "title": "Piratas Do Caribe: No Fim Do Mundo",
-    "poster": "https://image.tmdb.org/t/p/w500/j15lZasREutscon6e61LSSNJoN7.jpg",
-    "logo": null,
-    "rating": 7.277,
-    "year": "2007"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/30D511BDDFA2443EAEACC533BD6B82DC_media.mp4",
+    "id": "285",
+    "nome": "Piratas Do Caribe: No Fim Do Mundo",
+    "capa": "https://image.tmdb.org/t/p/w500/j15lZasREutscon6e61LSSNJoN7.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 58,
-    "title": "Piratas Do Caribe: O Baú Da Morte",
-    "poster": "https://image.tmdb.org/t/p/w500/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
-    "logo": null,
-    "rating": 7.385,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com:80/vod/00BD71F05B8D4701A9EB0FB7FBE4DDEC_media.mp4",
+    "id": "58",
+    "nome": "Piratas Do Caribe: O Baú Da Morte",
+    "capa": "https://image.tmdb.org/t/p/w500/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 22,
-    "title": "Piratas Do Caribe: A Maldição Do Pérola Negra",
-    "poster": "https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
-    "logo": null,
-    "rating": 7.83,
-    "year": "2003"
+    "player": "http://awnagk.gviudclrb.com:80/vod/28BABA4E1C9C404D83770A15F16DD714_media.mp4",
+    "id": "22",
+    "nome": "Piratas Do Caribe: A Maldição Do Pérola Negra",
+    "capa": "https://image.tmdb.org/t/p/w500/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 118,
-    "title": "A Fantástica Fábrica De Chocolate",
-    "poster": "https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg",
-    "logo": null,
-    "rating": 7.039,
-    "year": "2005"
+    "player": "http://awnagk.gviudclrb.com/vod/59F4615FFA494D20BED29690BA30519F_media.mp4",
+    "id": "118",
+    "nome": "A Fantástica Fábrica De Chocolate",
+    "capa": "https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 436969,
-    "title": "O Esquadrão Suicida (The Suicide Squad)",
-    "poster": "https://image.tmdb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
-    "logo": null,
-    "rating": 7.459,
-    "year": "2021"
+    "player": "https://fcoidok.cisantkdh.com/vod/D1E8FA4794464819848585A9E83F8841_media.mp4",
+    "id": "436969",
+    "nome": "O Esquadrão Suicida",
+    "capa": "https://image.tmdb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 791373,
-    "title": "Liga Da Justiça De Zack Snyder",
-    "poster": "https://image.tmdb.org/t/p/w500/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
-    "logo": null,
-    "rating": 8.086,
-    "year": "2021"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/BF357E1A4CC94C4AAF7620099DCDCD30_media.mp4",
+    "id": "791373",
+    "nome": "Liga Da Justiça De Zack Snyder",
+    "capa": "https://image.tmdb.org/t/p/w500/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 383498,
-    "title": "Deadpool 2",
-    "poster": "https://image.tmdb.org/t/p/w500/rDRIx1J63HVXUkjWTf4RUiNOa3D.jpg",
-    "logo": null,
-    "rating": 7.491,
-    "year": "2018"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/4D8373344ADB446E8B56CC2DD6AAB118_media.mp4",
+    "id": "383498",
+    "nome": "Deadpool 2",
+    "capa": "https://image.tmdb.org/t/p/w500/rDRIx1J63HVXUkjWTf4RUiNOa3D.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 293660,
-    "title": "Deadpool Deadpool",
-    "poster": "https://image.tmdb.org/t/p/w500/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",
-    "logo": null,
-    "rating": 7.625,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/D7BD3D132FDC43D5995D66835CA09300_media.mp4",
+    "id": "293660",
+    "nome": "Deadpool Deadpool",
+    "capa": "https://image.tmdb.org/t/p/w500/tekExNqal2kcHp8BKiHX5jjxK9J.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 634649,
-    "title": "Homem-Aranha: Sem Volta Para Casa (Spider-Man: No Way Home)",
-    "poster": "https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
-    "logo": null,
-    "rating": 7.9,
-    "year": "2021"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/C26F7546E55C43F5B5641C2833F4C572_media.mp4",
+    "id": "634649",
+    "nome": "Homem-Aranha: Sem Volta Para Casa",
+    "capa": "https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 429617,
-    "title": "Homem-Aranha: Longe De Casa",
-    "poster": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
-    "logo": null,
-    "rating": 7.395,
-    "year": "2019"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/56FA43EF5081443BB1352C2F49DA6E46_media.mp4",
+    "id": "429617",
+    "nome": "Homem-Aranha: Longe De Casa",
+    "capa": "https://image.tmdb.org/t/p/w500/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 9072,
-    "title": "O Pequenino",
-    "poster": "https://image.tmdb.org/t/p/w500/hhz8suBlc45xIyanIIAg7DmWHCB.jpg",
-    "logo": null,
-    "rating": 5.952,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com:80/vod/14FF0341D4214B8DB30A2C95DD0644BA_media.mp4",
+    "id": "9072",
+    "nome": "O Pequenino",
+    "capa": "https://image.tmdb.org/t/p/w500/hhz8suBlc45xIyanIIAg7DmWHCB.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 9757,
-    "title": "Norbit: Uma Comédia De Peso",
-    "poster": "https://image.tmdb.org/t/p/w500/oKMs9mj4tvFGa8gTSduL2P65ddo.jpg",
-    "logo": null,
-    "rating": 5.712,
-    "year": "2007"
+    "player": "http://awnagk.gviudclrb.com/vod/AA7A219E5B704B6BB9BC02501A9D87A5_media.mp4",
+    "id": "9757",
+    "nome": "Norbit: Uma Comédia De Peso",
+    "capa": "https://image.tmdb.org/t/p/w500/oKMs9mj4tvFGa8gTSduL2P65ddo.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 12153,
-    "title": "As Branquelas",
-    "poster": "https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
-    "logo": null,
-    "rating": 6.953,
-    "year": "2004"
+    "player": "https://1a-1791.com/video/s8/2/S/L/b/M/SLbMu.caa.mp4",
+    "id": "12153",
+    "nome": "As Branquelas",
+    "capa": "https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 1008042,
-    "title": "Fale Comigo",
-    "poster": "https://image.tmdb.org/t/p/w500/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
-    "logo": null,
-    "rating": 7.1,
-    "year": "2023"
+    "player": "https://fcoidok.cisantkdh.com/vod/5C5CA4AB3A9D4166A820CA49A520A5D7_media.mp4",
+    "id": "1008042",
+    "nome": "Fale Comigo",
+    "capa": "https://image.tmdb.org/t/p/w500/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1041613,
-    "title": "Imaculada",
-    "poster": "https://image.tmdb.org/t/p/w500/6EYfWxIGPc23m1GFs9Gt3kzTl5O.jpg",
-    "logo": null,
-    "rating": 6.206,
-    "year": "2024"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/5E4FC5D667CA4783B23BC8536A2F8A4A_media.mp4",
+    "id": "1041613",
+    "nome": "Imaculada",
+    "capa": "https://image.tmdb.org/t/p/w500/6EYfWxIGPc23m1GFs9Gt3kzTl5O.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1023922,
-    "title": "MaXXXine",
-    "poster": "https://image.tmdb.org/t/p/w500/dmi277uSdCavkSLTVNBUMlyDYy0.jpg",
-    "logo": null,
-    "rating": 6.29,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com:80/vod/1ED2656210804896A2A7C95F150F327F_media.mp4",
+    "id": "1023922",
+    "nome": "MaXXXine",
+    "capa": "https://image.tmdb.org/t/p/w500/dmi277uSdCavkSLTVNBUMlyDYy0.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 1079485,
-    "title": "Ursinho Pooh: Sangue e Mel 2",
-    "poster": "https://image.tmdb.org/t/p/w500/uJXJlO7Y35729AwVSe5tt1JScEK.jpg",
-    "logo": null,
-    "rating": 5.78,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com:80/vod/1351A364D06B4041B1AFBAEF0EB22A0B_media.mp4",
+    "id": "1079485",
+    "nome": "Ursinho Pooh: Sangue e Mel 2",
+    "capa": "https://image.tmdb.org/t/p/w500/uJXJlO7Y35729AwVSe5tt1JScEK.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 109451,
-    "title": "Tá Chovendo Hambúrguer 2",
-    "poster": "https://image.tmdb.org/t/p/w500/jyIWUZCtt3pRxi727NxFjhcdzNd.jpg",
-    "logo": null,
-    "rating": 6.452,
-    "year": "2013"
+    "player": "http://awnagk.gviudclrb.com/vod/C4DF22E6782C4AF0AB45262CAB304653_media.mp4",
+    "id": "109451",
+    "nome": "Tá Chovendo Hambúrguer 2",
+    "capa": "https://image.tmdb.org/t/p/w500/jyIWUZCtt3pRxi727NxFjhcdzNd.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 22794,
-    "title": "Tá Chovendo Hambúrguer",
-    "poster": "https://image.tmdb.org/t/p/w500/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg",
-    "logo": null,
-    "rating": 6.66,
-    "year": "2009"
+    "player": "http://awnagk.gviudclrb.com:80/vod/199D14CCC0074325A6807D0E0DF8E1A3_media.mp4",
+    "id": "22794",
+    "nome": "Tá Chovendo Hambúrguer",
+    "capa": "https://image.tmdb.org/t/p/w500/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 7484,
-    "title": "O Bicho Vai Pegar",
-    "poster": "https://image.tmdb.org/t/p/w500/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
-    "logo": null,
-    "rating": 6.195,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com/vod/A364324E955449F9933F6980A0C30CE2_media.mp4",
+    "id": "7484",
+    "nome": "O Bicho Vai Pegar",
+    "capa": "https://image.tmdb.org/t/p/w500/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 81188,
-    "title": "A Origem Dos Guardiões",
-    "poster": "https://image.tmdb.org/t/p/w500/hLiI13YstciHqiuHCkD786wpIYn.jpg",
-    "logo": null,
-    "rating": 7.378,
-    "year": "2012"
+    "player": "http://fcoidok.cisantkdh.com/vod/3D8904D54C6F4DC8BD177E66299A074F_media.mp4",
+    "id": "81188",
+    "nome": "A Origem Dos Guardiões",
+    "capa": "https://image.tmdb.org/t/p/w500/hLiI13YstciHqiuHCkD786wpIYn.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 127380,
-    "title": "Procurando Dory (Finding Dory)",
-    "poster": "https://image.tmdb.org/t/p/w500/5MOyKnmtE2hd778bIybw9v8HkiP.jpg",
-    "logo": null,
-    "rating": 7.042,
-    "year": "2016"
+    "player": "http://awnagk.gviudclrb.com:80/vod/060690ECF50542E3ACCBA3DC9CFCB77B_media.mp4",
+    "id": "127380",
+    "nome": "Procurando Dory",
+    "capa": "https://image.tmdb.org/t/p/w500/5MOyKnmtE2hd778bIybw9v8HkiP.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 12,
-    "title": "Procurando Nemo (Finding Nemo)",
-    "poster": "https://image.tmdb.org/t/p/w500/djbivExXSZb0sTO8uYaaQC5vMRM.jpg",
-    "logo": null,
-    "rating": 7.82,
-    "year": "2003"
+    "player": "http://awnagk.gviudclrb.com:80/vod/C1B7331E857449B1AEDF1DB2C9CDB681_media.mp4",
+    "id": "12",
+    "nome": "Procurando Nemo",
+    "capa": "https://image.tmdb.org/t/p/w500/djbivExXSZb0sTO8uYaaQC5vMRM.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 73723,
-    "title": "O Lorax: Em Busca Da Trúfula Perdida",
-    "poster": "https://image.tmdb.org/t/p/w500/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg",
-    "logo": null,
-    "rating": 6.536,
-    "year": "2012"
+    "player": "http://awnagk.gviudclrb.com/vod/EA37F402EB61450E86AAEFE78BE950CC_media.mp4",
+    "id": "73723",
+    "nome": "O Lorax: Em Busca Da Trúfula Perdida",
+    "capa": "https://image.tmdb.org/t/p/w500/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 62211,
-    "title": "Universidade Monstros (Monsters University)",
-    "poster": "https://image.tmdb.org/t/p/w500/uHiklaxCoZcQqzsj5l1IgyieWgp.jpg",
-    "logo": null,
-    "rating": 7.1,
-    "year": "2013"
+    "player": "http://awnagk.gviudclrb.com:80/vod/9FB6E34F13D74BC49A04BF9CAA3CD774_media.mp4",
+    "id": "62211",
+    "nome": "Universidade Monstros",
+    "capa": "https://image.tmdb.org/t/p/w500/uHiklaxCoZcQqzsj5l1IgyieWgp.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 585,
-    "title": "Monstros S.A. (Monsters, Inc.)",
-    "poster": "https://image.tmdb.org/t/p/w500/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
-    "logo": null,
-    "rating": 7.854,
-    "year": "2001"
+    "player": "https://1a-1791.com/video/s8/2/S/A/n/F/SAnFu.caa.mp4",
+    "id": "585",
+    "nome": "Monstros S.A.",
+    "capa": "https://image.tmdb.org/t/p/w500/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 9297,
-    "title": "A Casa Monstro",
-    "poster": "https://image.tmdb.org/t/p/w500/hVtsIdJ9CogLz0NuqMKnfIu1uzR.jpg",
-    "logo": null,
-    "rating": 6.708,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com:80/vod/0A6A4D25EF854D9B9B4AA87872E8D4F2_media.mp4",
+    "id": "9297",
+    "nome": "A Casa Monstro",
+    "capa": "https://image.tmdb.org/t/p/w500/hVtsIdJ9CogLz0NuqMKnfIu1uzR.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 7518,
-    "title": "Os Sem Floresta",
-    "poster": "https://image.tmdb.org/t/p/w500/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
-    "logo": null,
-    "rating": 6.601,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com/vod/AE839848F93D48B6A01927D34C480340_media.mp4",
+    "id": "7518",
+    "nome": "Os Sem Floresta",
+    "capa": "https://image.tmdb.org/t/p/w500/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 65759,
-    "title": "Happy Feet 2",
-    "poster": "https://image.tmdb.org/t/p/w500/kp8ADtdIyNDUqEQRBxtUgj5zefz.jpg",
-    "logo": null,
-    "rating": 6.21,
-    "year": "2011"
+    "player": "https://1a-1791.com/video/s8/2/P/q/l/F/PqlFu.caa.mp4",
+    "id": "65759",
+    "nome": "Happy Feet 2",
+    "capa": "https://image.tmdb.org/t/p/w500/kp8ADtdIyNDUqEQRBxtUgj5zefz.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 9836,
-    "title": "Happy Feet: O Pinguim",
-    "poster": "https://image.tmdb.org/t/p/w500/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg",
-    "logo": null,
-    "rating": 6.23,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com:80/vod/BDD7FA17DDD0413485F8594065A2D501_media.mp4",
+    "id": "9836",
+    "nome": "Happy Feet: O Pinguim",
+    "capa": "https://image.tmdb.org/t/p/w500/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 10020,
-    "title": "A Bela e a Fera 19",
-    "poster": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
-    "logo": null,
-    "rating": 7.728,
-    "year": "1991"
+    "player": "http://awnagk.gviudclrb.com:80/vod/5702FC1D17154239BE4F2213DE9B6F2F_media.mp4",
+    "id": "10020",
+    "nome": "A Bela e a Fera 19",
+    "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
+    "categoria": "Romance",
+    "idade": "L"
   },
   {
-    "id": 260513,
-    "title": "Os Incríveis 2 (Incredibles 2)",
-    "poster": "https://image.tmdb.org/t/p/w500/6et98yxnctR6uH16x3uJuIVKsPf.jpg",
-    "logo": null,
-    "rating": 7.454,
-    "year": "2018"
+    "player": "http://awnagk.gviudclrb.com:80/vod/6D5BC36CB11B4074BF5919DD9C3DFE1D_media.mp4",
+    "id": "260513",
+    "nome": "Os Incríveis 2",
+    "capa": "https://image.tmdb.org/t/p/w500/6et98yxnctR6uH16x3uJuIVKsPf.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 9806,
-    "title": "Os Incríveis 1",
-    "poster": "https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
-    "logo": null,
-    "rating": 7.727,
-    "year": "2004"
+    "player": "https://fcoidok.cisantkdh.com/vod/DD7999F5187046C3BF8EC9D7E9A0562E_media.mp4",
+    "id": "9806",
+    "nome": "Os Incríveis 1",
+    "capa": "https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 302429,
-    "title": "Magia Estranha",
-    "poster": "https://image.tmdb.org/t/p/w500/4VQcLPXlJJZhNDYdjvOcw2KylUF.jpg",
-    "logo": null,
-    "rating": 7.252,
-    "year": "2015"
+    "player": "http://awnagk.gviudclrb.com:80/vod/7C5D3747B8FA494BABF8C280D22166B6_media.mp4",
+    "id": "302429",
+    "nome": "Magia Estranha",
+    "capa": "https://image.tmdb.org/t/p/w500/4VQcLPXlJJZhNDYdjvOcw2KylUF.jpg",
+    "categoria": "Música",
+    "idade": "L"
   },
   {
-    "id": 10010,
-    "title": "Irmão Urso 2",
-    "poster": "https://image.tmdb.org/t/p/w500/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg",
-    "logo": null,
-    "rating": 6.7,
-    "year": "2006"
+    "player": "http://awnagk.gviudclrb.com:80/vod/7D8AA0A06FD94127A8B1C7A394CE4929_media.mp4",
+    "id": "10010",
+    "nome": "Irmão Urso 2",
+    "capa": "https://image.tmdb.org/t/p/w500/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 10009,
-    "title": "Irmão Urso",
-    "poster": "https://image.tmdb.org/t/p/w500/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg",
-    "logo": null,
-    "rating": 7.3,
-    "year": "2003"
+    "player": "http://awnagk.gviudclrb.com:80/vod/57DC3D25A35842508EEC6A804D38F3E3_media.mp4",
+    "id": "10009",
+    "nome": "Irmão Urso",
+    "capa": "https://image.tmdb.org/t/p/w500/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 474350,
-    "title": "It: Capítulo Dois",
-    "poster": "https://image.tmdb.org/t/p/w500/qjKvLv6Z2D9QWEOdnsrffguazHk.jpg",
-    "logo": null,
-    "rating": 6.838,
-    "year": "2019"
+    "player": "https<b></b>://fcoidok.cisantkdh.com/vod/B837FCB0701E440C96458F7227088CFC_media.mp4",
+    "id": "474350",
+    "nome": "It: Capítulo Dois",
+    "capa": "https://image.tmdb.org/t/p/w500/qjKvLv6Z2D9QWEOdnsrffguazHk.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 346364,
-    "title": "It: A Coisa",
-    "poster": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
-    "logo": null,
-    "rating": 7.24,
-    "year": "2017"
+    "player": "https://fcoidok.cisantkdh.com/vod/9AD02AA05390413498D013A2AF77CE6F_media.mp4",
+    "id": "346364",
+    "nome": "It: A Coisa",
+    "capa": "https://image.tmdb.org/t/p/w500/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 719221,
-    "title": "O Tarô Da Morte",
-    "poster": "https://image.tmdb.org/t/p/w500/ltOnEtJZyruTAOPRs0xYy6njIkY.jpg",
-    "logo": null,
-    "rating": 6.356,
-    "year": "2024"
+    "player": "http://fcoidok.cisantkdh.com/vod/9F845C3B9869454CB38A8B70C495B04D_media.mp4",
+    "id": "719221",
+    "nome": "O Tarô Da Morte",
+    "capa": "https://image.tmdb.org/t/p/w500/ltOnEtJZyruTAOPRs0xYy6njIkY.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 564427,
-    "title": "Minha Vida Em Marte",
-    "poster": "https://image.tmdb.org/t/p/w500/tJHWvQOdOj7G52wMKwq7heRUrkj.jpg",
-    "logo": null,
-    "rating": 7.86,
-    "year": "2018"
+    "player": "http://awnagk.gviudclrb.com/vod/A19F9F0F6AF94B4DAD20AE1090EAFDF6_media.mp4",
+    "id": "564427",
+    "nome": "Minha Vida Em Marte",
+    "capa": "https://image.tmdb.org/t/p/w500/tJHWvQOdOj7G52wMKwq7heRUrkj.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 260514,
-    "title": "Carros 3 (Cars 3)",
-    "poster": "https://image.tmdb.org/t/p/w500/oEmdfjqQnAWe1t23WiiW0icFhGv.jpg",
-    "logo": null,
-    "rating": 6.864,
-    "year": "2017"
+    "player": "https://fcoidok.cisantkdh.com/vod/F82FFC8BACE14B7CA320927B00577EE3_media.mp4",
+    "id": "260514",
+    "nome": "Carros 3",
+    "capa": "https://image.tmdb.org/t/p/w500/oEmdfjqQnAWe1t23WiiW0icFhGv.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 49013,
-    "title": "Carros 2 (Cars 2)",
-    "poster": "https://image.tmdb.org/t/p/w500/fIKaabvE40T39nOIngcZPcPJeYe.jpg",
-    "logo": null,
-    "rating": 6.184,
-    "year": "2011"
+    "player": "https://fcoidok.cisantkdh.com/vod/7B8D00ED10A6499A95BD9CE3C77B69C5_media.mp4",
+    "id": "49013",
+    "nome": "Carros 2",
+    "capa": "https://image.tmdb.org/t/p/w500/fIKaabvE40T39nOIngcZPcPJeYe.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 920,
-    "title": "Carros (Cars)",
-    "poster": "https://image.tmdb.org/t/p/w500/A7nssMRIPauZhEVf2dzwsf4EALO.jpg",
-    "logo": null,
-    "rating": 7.038,
-    "year": "2006"
+    "player": "https://fcoidok.cisantkdh.com/vod/EF87A78B8E944E2BAA0D64B42CA415E2_media.mp4",
+    "id": "920",
+    "nome": "Carros",
+    "capa": "https://image.tmdb.org/t/p/w500/A7nssMRIPauZhEVf2dzwsf4EALO.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 12445,
-    "title": "Harry Potter Parte 2",
-    "poster": "https://image.tmdb.org/t/p/w500/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
-    "logo": null,
-    "rating": 8.1,
-    "year": "2011"
+    "player": "http://awnagk.gviudclrb.com/vod/204445FE0973432A877E9B25B4D71AF4_media.mp4",
+    "id": "12445",
+    "nome": "Harry Potter Parte 2",
+    "capa": "https://image.tmdb.org/t/p/w500/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 12444,
-    "title": "Harry Potter e As Relíquias Da Morte: Parte 1",
-    "poster": "https://image.tmdb.org/t/p/w500/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
-    "logo": null,
-    "rating": 7.735,
-    "year": "2010"
+    "player": "http://awnagk.gviudclrb.com/vod/E7C8372404D74FA3A109B6E2EA504362_media.mp4",
+    "id": "12444",
+    "nome": "Harry Potter e As Relíquias Da Morte: Parte 1",
+    "capa": "https://image.tmdb.org/t/p/w500/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 767,
-    "title": "Harry Potter e o Enigma Do Príncipe",
-    "poster": "https://image.tmdb.org/t/p/w500/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
-    "logo": null,
-    "rating": 7.682,
-    "year": "2009"
+    "player": "http://awnagk.gviudclrb.com/vod/BFBAE2F39E3048B081F1B8758B7A0434_media.mp4",
+    "id": "767",
+    "nome": "Harry Potter e o Enigma Do Príncipe",
+    "capa": "https://image.tmdb.org/t/p/w500/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 675,
-    "title": "Harry Potter e a Ordem Da Fênix",
-    "poster": "https://image.tmdb.org/t/p/w500/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
-    "logo": null,
-    "rating": 7.673,
-    "year": "2007"
+    "player": "http://awnagk.gviudclrb.com/vod/189CF851194C49A8913ECFCF6E00D243_media.mp4",
+    "id": "675",
+    "nome": "Harry Potter e a Ordem Da Fênix",
+    "capa": "https://image.tmdb.org/t/p/w500/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 674,
-    "title": "Harry Potter e o Cálice De Fogo",
-    "poster": "https://image.tmdb.org/t/p/w500/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
-    "logo": null,
-    "rating": 7.805,
-    "year": "2005"
+    "player": "http://awnagk.gviudclrb.com/vod/E8CC2A2A9693435CADDBB262B7D0DDFA_media.mp4",
+    "id": "674",
+    "nome": "Harry Potter e o Cálice De Fogo",
+    "capa": "https://image.tmdb.org/t/p/w500/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 673,
-    "title": "Harry Potter e o Prisioneiro De Azkaban",
-    "poster": "https://image.tmdb.org/t/p/w500/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
-    "logo": null,
-    "rating": 8.01,
-    "year": "2004"
+    "player": "http://awnagk.gviudclrb.com/vod/972D09315471453B942C2A06DB1CED18_media.mp4",
+    "id": "673",
+    "nome": "Harry Potter e o Prisioneiro De Azkaban",
+    "capa": "https://image.tmdb.org/t/p/w500/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 672,
-    "title": "Harry Potter e a Câmara Secreta",
-    "poster": "https://image.tmdb.org/t/p/w500/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
-    "logo": null,
-    "rating": 7.707,
-    "year": "2002"
+    "player": "https://1a-1791.com/video/s8/2/Q/h/8/J/Qh8Ju.caa.mp4",
+    "id": "672",
+    "nome": "Harry Potter e a Câmara Secreta",
+    "capa": "https://image.tmdb.org/t/p/w500/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 671,
-    "title": "Harry Potter e a Pedra Filosofal",
-    "poster": "https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
-    "logo": null,
-    "rating": 7.9,
-    "year": "2001"
+    "player": "https://hugh.cdn.rumble.cloud/video/s8/2/j/7/Y/J/j7YJu.caa.mp4",
+    "id": "671",
+    "nome": "Harry Potter e a Pedra Filosofal",
+    "capa": "https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 299534,
-    "title": "Vingadores: Ultimato (Avengers: Endgame)",
-    "poster": "https://image.tmdb.org/t/p/w500/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
-    "logo": null,
-    "rating": 8.239,
-    "year": "2019"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/2547AD3983CB4AADB1F32A3360C84153_media.mp4",
+    "id": "299534",
+    "nome": "Vingadores: Ultimato",
+    "capa": "https://image.tmdb.org/t/p/w500/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 299536,
-    "title": "Vingadores: Guerra Infinita (Avengers: Infinity War)",
-    "poster": "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
-    "logo": null,
-    "rating": 8.239,
-    "year": "2018"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/146DAA9218A349C990D04CF46F7BDA2B_media.mp4",
+    "id": "299536",
+    "nome": "Vingadores: Guerra Infinita",
+    "capa": "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 99861,
-    "title": "Vingadores: Era de Ultron (Avengers: Age of Ultron)",
-    "poster": "https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
-    "logo": null,
-    "rating": 7.275,
-    "year": "2015"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/F68F4F30A0384C2FAA297264E7842D3F_media.mp4",
+    "id": "99861",
+    "nome": "Vingadores: Era de Ultron",
+    "capa": "https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 976573,
-    "title": "Elementos (Elemental)",
-    "poster": "https://image.tmdb.org/t/p/w500/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg",
-    "logo": null,
-    "rating": 7.585,
-    "year": "2023"
+    "player": "https://fcoidok.cisantkdh.com/vod/976035ADAFC54285ADC5F1AB064AC35C_media.mp4",
+    "id": "976573",
+    "nome": "Elementos",
+    "capa": "https://image.tmdb.org/t/p/w500/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 453395,
-    "title": "Doutor Estranho no Multiverso da Loucura (Doctor Strange in the Multiverse of Madness)",
-    "poster": "https://image.tmdb.org/t/p/w500/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
-    "logo": null,
-    "rating": 7.232,
-    "year": "2022"
+    "player": "https://fcoidok.cisantkdh.com/vod/CACEC53B97DC44A8A95120D102A8331A_media.mp4",
+    "id": "453395",
+    "nome": "Doutor Estranho no Multiverso da Loucura",
+    "capa": "https://image.tmdb.org/t/p/w500/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 1771,
-    "title": "Capitão América: O Primeiro Vingador",
-    "poster": "https://image.tmdb.org/t/p/w500/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
-    "logo": null,
-    "rating": 7.009,
-    "year": "2011"
+    "player": "http://awnagk.gviudclrb.com:80/vod/71796FA488A24F5FB8BEC47F5F7E2D18_media.mp4",
+    "id": "1771",
+    "nome": "Capitão América: O Primeiro Vingador",
+    "capa": "https://image.tmdb.org/t/p/w500/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 663712,
-    "title": "Terrifier 2",
-    "poster": "https://image.tmdb.org/t/p/w500/nocx1g4AwO4HyyuWF5gnM5WjGJL.jpg",
-    "logo": null,
-    "rating": 6.673,
-    "year": "2022"
+    "player": "https://1a-1791.com/video/s8/2/K/R/v/S/KRvSu.caa.mp4",
+    "id": "663712",
+    "nome": "Terrifier 2",
+    "capa": "https://image.tmdb.org/t/p/w500/nocx1g4AwO4HyyuWF5gnM5WjGJL.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 5559,
-    "title": "Bee Movie: A História De Uma Abelha",
-    "poster": "https://image.tmdb.org/t/p/w500/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
-    "logo": null,
-    "rating": 6.047,
-    "year": "2007"
+    "player": null,
+    "id": "5559",
+    "nome": "Bee Movie: A História De Uma Abelha",
+    "capa": "https://image.tmdb.org/t/p/w500/puW6ynGLcCowqiYvhPhdbNH8Zzj.jpg",
+    "categoria": "Família",
+    "idade": "L"
   },
   {
-    "id": 519182,
-    "title": "Meu Malvado Favorito 4",
-    "poster": "https://image.tmdb.org/t/p/w500/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
-    "logo": null,
-    "rating": 6.984,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com/vod/296C50682AA94E2A93B3EC9D22D65AB1_media.mp4",
+    "id": "519182",
+    "nome": "Meu Malvado Favorito 4",
+    "capa": "https://image.tmdb.org/t/p/w500/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 336843,
-    "title": "Maze Runner: A Cura Mortal",
-    "poster": "https://image.tmdb.org/t/p/w500/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg",
-    "logo": null,
-    "rating": 7.082,
-    "year": "2018"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/0922097550E048F4B302E1177D560F23_media.mp4",
+    "id": "336843",
+    "nome": "Maze Runner: A Cura Mortal",
+    "capa": "https://image.tmdb.org/t/p/w500/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 294254,
-    "title": "Maze Runner: Prova De Fogo",
-    "poster": "https://image.tmdb.org/t/p/w500/qpb5p5hPU3Bkb0wXJQPmONjOejh.jpg",
-    "logo": null,
-    "rating": 6.73,
-    "year": "2015"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/FB186EA3466F4A2CA81DD32BF56E34B3_media.mp4",
+    "id": "294254",
+    "nome": "Maze Runner: Prova De Fogo",
+    "capa": "https://image.tmdb.org/t/p/w500/qpb5p5hPU3Bkb0wXJQPmONjOejh.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 198663,
-    "title": "Maze Runner: Correr Ou Morrer",
-    "poster": "https://image.tmdb.org/t/p/w500/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",
-    "logo": null,
-    "rating": 7.191,
-    "year": "2014"
+    "player": "http://fcoidok.cisantkdh.com:80/vod/9D83D325FB6E48D69A6501F3928EF841_media.mp4",
+    "id": "198663",
+    "nome": "Maze Runner: Correr Ou Morrer",
+    "capa": "https://image.tmdb.org/t/p/w500/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",
+    "categoria": "Ação",
+    "idade": "L"
   },
   {
-    "id": 889737,
-    "title": "Coringa: Delírio a Dois - Joker: Folie à Deux",
-    "poster": "https://image.tmdb.org/t/p/w500/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
-    "logo": null,
-    "rating": 5.407,
-    "year": "2024"
+    "player": "https://1a-1791.com/video/s8/2/I/j/-/Q/Ij-Qu.caa.mp4",
+    "id": "889737",
+    "nome": "Coringa: Delírio a Dois - Joker: Folie à Deux",
+    "capa": "https://image.tmdb.org/t/p/w500/9RmVr8dPWicFyPZ5JCQK3NcBNB5.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 632357,
-    "title": "Rogai Por Nós",
-    "poster": "https://image.tmdb.org/t/p/w500/zduyzcjyahZtP4fGZE6789h04IM.jpg",
-    "logo": null,
-    "rating": 6.549,
-    "year": "2021"
+    "player": "https://fcoidok.cisantkdh.com/vod/A0EDEAEDC6524A099161E43E6B871B4C_media.mp4",
+    "id": "632357",
+    "nome": "Rogai Por Nós",
+    "capa": "https://image.tmdb.org/t/p/w500/zduyzcjyahZtP4fGZE6789h04IM.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 290098,
-    "title": "A Criada",
-    "poster": "https://image.tmdb.org/t/p/w500/q6ngYthHXCvA2ZubO4FHTFNRrmc.jpg",
-    "logo": null,
-    "rating": 8.2,
-    "year": "2016"
+    "player": "http://awnagk.gviudclrb.com/vod/DAA343D6E391482C9BED1C9A80A5C302_media.mp4",
+    "id": "290098",
+    "nome": "A Criada",
+    "capa": "https://image.tmdb.org/t/p/w500/q6ngYthHXCvA2ZubO4FHTFNRrmc.jpg",
+    "categoria": "Thriller",
+    "idade": "L"
   },
   {
-    "id": 296096,
-    "title": "Como Eu Era Antes De Você",
-    "poster": "https://image.tmdb.org/t/p/w500/1a60KPNTC4JKYphNQveAB37Lyif.jpg",
-    "logo": null,
-    "rating": 7.928,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com/vod/11B2F9A402E145FA90B51467BC48B368_media.mp4",
+    "id": "296096",
+    "nome": "Como Eu Era Antes De Você",
+    "capa": "https://image.tmdb.org/t/p/w500/1a60KPNTC4JKYphNQveAB37Lyif.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 10192,
-    "title": "Shrek Para Sempre",
-    "poster": "https://image.tmdb.org/t/p/w500/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
-    "logo": null,
-    "rating": 6.406,
-    "year": "2010"
+    "player": "http://awnagk.gviudclrb.com/vod/9886FC14037C428192FA5ABE59D7800B_media.mp4",
+    "id": "10192",
+    "nome": "Shrek Para Sempre",
+    "capa": "https://image.tmdb.org/t/p/w500/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   },
   {
-    "id": 810,
-    "title": "Shrek Terceiro",
-    "poster": "https://image.tmdb.org/t/p/w500/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
-    "logo": null,
-    "rating": 6.312,
-    "year": "2007"
+    "player": "http://awnagk.gviudclrb.com/vod/8650572D6BD74E72BA0FFF95BD99FB96_media.mp4",
+    "id": "810",
+    "nome": "Shrek Terceiro",
+    "capa": "https://image.tmdb.org/t/p/w500/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
+    "categoria": "Fantasia",
+    "idade": "L"
   },
   {
-    "id": 809,
-    "title": "Shrek 2",
-    "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-    "logo": null,
-    "rating": 7.324,
-    "year": "2004"
+    "player": "http://awnagk.gviudclrb.com:80/vod/01A16C4B83D5474B89CCEEF25A6726F7_media.mp4",
+    "id": "809",
+    "nome": "Shrek 2",
+    "capa": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 808,
-    "title": "Shrek",
-    "poster": "https://image.tmdb.org/t/p/w500/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
-    "logo": null,
-    "rating": 7.77,
-    "year": "2001"
+    "player": "http://awnagk.gviudclrb.com:80/vod/9FCFFA65764A4B159D26466EE0D49484_media.mp4",
+    "id": "808",
+    "nome": "Shrek",
+    "capa": "https://image.tmdb.org/t/p/w500/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 2062,
-    "title": "Ratatouille",
-    "poster": "https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
-    "logo": null,
-    "rating": 7.845,
-    "year": "2007"
+    "player": "https://fcoidok.cisantkdh.com/vod/12FA975656A84800ADCC065AF7F5DFD2_media.mp4",
+    "id": "2062",
+    "nome": "Ratatouille",
+    "capa": "https://image.tmdb.org/t/p/w500/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 1125510,
-    "title": "O Poço 2",
-    "poster": "https://image.tmdb.org/t/p/w500/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
-    "logo": null,
-    "rating": 5.561,
-    "year": "2024"
+    "player": "http://awnagk.gviudclrb.com/vod/1BA7497DB276479581747365E1569BF2_media.mp4",
+    "id": "1125510",
+    "nome": "O Poço 2",
+    "capa": "https://image.tmdb.org/t/p/w500/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
+    "categoria": "Ficção científica",
+    "idade": "L"
   },
   {
-    "id": 619264,
-    "title": "O Poço",
-    "poster": "https://image.tmdb.org/t/p/w500/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg",
-    "logo": null,
-    "rating": 6.97,
-    "year": "2019"
+    "player": "http://awnagk.gviudclrb.com/vod/4CD17B9309D741A584049516658393EC_media.mp4",
+    "id": "619264",
+    "nome": "O Poço",
+    "capa": "https://image.tmdb.org/t/p/w500/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg",
+    "categoria": "Drama",
+    "idade": "L"
   },
   {
-    "id": 342470,
-    "title": "Por Lugares Incríveis",
-    "poster": "https://image.tmdb.org/t/p/w500/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg",
-    "logo": null,
-    "rating": 7.632,
-    "year": "2020"
+    "player": "http://awnagk.gviudclrb.com:80/vod/4EA081C4D758435EA9EF24CDF41C6CFA_media.mp4",
+    "id": "342470",
+    "nome": "Por Lugares Incríveis",
+    "capa": "https://image.tmdb.org/t/p/w500/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg",
+    "categoria": "Romance",
+    "idade": "L"
   },
   {
-    "id": 241259,
-    "title": "Alice Através Do Espelho 2",
-    "poster": "https://image.tmdb.org/t/p/w500/xHANJfW7hk2weM532IpUthgAQfo.jpg",
-    "logo": null,
-    "rating": 6.566,
-    "year": "2016"
+    "player": null,
+    "id": "241259",
+    "nome": "Alice Através Do Espelho 2",
+    "capa": "https://image.tmdb.org/t/p/w500/xHANJfW7hk2weM532IpUthgAQfo.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 12155,
-    "title": "Alice No País Das Maravilhas",
-    "poster": "https://image.tmdb.org/t/p/w500/rtBRW9xkP94PRuyDa9zTZahuo27.jpg",
-    "logo": null,
-    "rating": 6.6,
-    "year": "2010"
+    "player": null,
+    "id": "12155",
+    "nome": "Alice No País Das Maravilhas",
+    "capa": "https://image.tmdb.org/t/p/w500/rtBRW9xkP94PRuyDa9zTZahuo27.jpg",
+    "categoria": "Família",
+    "idade": "L"
   },
   {
-    "id": 423108,
-    "title": "Invocação Do Mal 3: A Ordem Do Demônio",
-    "poster": "https://image.tmdb.org/t/p/w500/fNu88PdpStJGe09AUYmqTn6NEXB.jpg",
-    "logo": null,
-    "rating": 7.347,
-    "year": "2021"
+    "player": "http://fcoidok.cisantkdh.com/vod/BD621748EA8749CEA7A5922216C55806_media.mp4",
+    "id": "423108",
+    "nome": "Invocação Do Mal 3: A Ordem Do Demônio",
+    "capa": "https://image.tmdb.org/t/p/w500/fNu88PdpStJGe09AUYmqTn6NEXB.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 259693,
-    "title": "Invocação Do Mal 2",
-    "poster": "https://image.tmdb.org/t/p/w500/dOPVzDQdRQtSan36LpLwWcfzCgu.jpg",
-    "logo": null,
-    "rating": 7.293,
-    "year": "2016"
+    "player": "http://fcoidok.cisantkdh.com/vod/9CEBC4769EB442EDAAEA094695EE2480_media.mp4",
+    "id": "259693",
+    "nome": "Invocação Do Mal 2",
+    "capa": "https://image.tmdb.org/t/p/w500/dOPVzDQdRQtSan36LpLwWcfzCgu.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 138843,
-    "title": "Invocação do Mal (2013)",
-    "poster": "https://image.tmdb.org/t/p/w500/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
-    "logo": null,
-    "rating": 7.541,
-    "year": "2013"
+    "player": "https://fcoidok.cisantkdh.com/vod/4E73694484CC4C8B9465EA360FB8034C_media.mp4",
+    "id": "138843",
+    "nome": "Invocação do Mal",
+    "capa": "https://image.tmdb.org/t/p/w500/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 132232,
-    "title": "Mama",
-    "poster": "https://image.tmdb.org/t/p/w500/NBSMhzMXs56Scq2MGF1AetAYFr.jpg",
-    "logo": null,
-    "rating": 6.295,
-    "year": "2013"
+    "player": "https://fcoidok.cisantkdh.com/vod/56138FD8C6454DA1AAE5B62145B7304D_media.mp4",
+    "id": "132232",
+    "nome": "Mama",
+    "capa": "https://image.tmdb.org/t/p/w500/NBSMhzMXs56Scq2MGF1AetAYFr.jpg",
+    "categoria": "Terror",
+    "idade": "L"
   },
   {
-    "id": 228326,
-    "title": "Festa No Céu",
-    "poster": "https://image.tmdb.org/t/p/w500/xeYYskD0dABW0drkgvWNIb4OqAy.jpg",
-    "logo": null,
-    "rating": 7.532,
-    "year": "2014"
+    "player": "http://awnagk.gviudclrb.com/vod/76EE2C0672754033862AB27783DE7793_media.mp4",
+    "id": "228326",
+    "nome": "Festa No Céu",
+    "capa": "https://image.tmdb.org/t/p/w500/xeYYskD0dABW0drkgvWNIb4OqAy.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 10681,
-    "title": "WALL-E (WALL·E)",
-    "poster": "https://image.tmdb.org/t/p/w500/qNiwJPVCO4cgiM8LVtxwPV2HxHS.jpg",
-    "logo": null,
-    "rating": 8.116,
-    "year": "2008"
+    "player": "https://fcoidok.cisantkdh.com/vod/6A042246BF4F4F62BCEA556246497460_media.mp4",
+    "id": "10681",
+    "nome": "WALL-E",
+    "capa": "https://image.tmdb.org/t/p/w500/qNiwJPVCO4cgiM8LVtxwPV2HxHS.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 354912,
-    "title": "Viva: A Vida é uma Festa (Coco)",
-    "poster": "https://image.tmdb.org/t/p/w500/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
-    "logo": null,
-    "rating": 8.198,
-    "year": "2017"
+    "player": "https://fcoidok.cisantkdh.com/vod/3A02C510FA654148B67EEC95203DE095_media.mp4",
+    "id": "354912",
+    "nome": "Viva: A Vida é uma Festa",
+    "capa": "https://image.tmdb.org/t/p/w500/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg",
+    "categoria": "Família",
+    "idade": "L"
   },
   {
-    "id": 9487,
-    "title": "Vida de Inseto (A Bug's Life)",
-    "poster": "https://image.tmdb.org/t/p/w500/vvlbdBCuLt7nkQG7anNE6xHNbAO.jpg",
-    "logo": null,
-    "rating": 6.981,
-    "year": "1998"
+    "player": "https://fcoidok.cisantkdh.com/vod/CF633ABD0DF3479CBC25C74AFBBD519B_media.mp4",
+    "id": "9487",
+    "nome": "Vida de Inseto",
+    "capa": "https://image.tmdb.org/t/p/w500/vvlbdBCuLt7nkQG7anNE6xHNbAO.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
   },
   {
-    "id": 269149,
-    "title": "Zootopia: Essa Cidade é o Bicho",
-    "poster": "https://image.tmdb.org/t/p/w500/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
-    "logo": null,
-    "rating": 7.765,
-    "year": "2016"
+    "player": null,
+    "id": "269149",
+    "nome": "Zootopia: Essa Cidade é o Bicho",
+    "capa": "https://image.tmdb.org/t/p/w500/27Ko4be7CeFmq2hVN7lp7TWG1sd.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 10198,
-    "title": "A Princesa e o Sapo",
-    "poster": "https://image.tmdb.org/t/p/w500/5JQbaVcFd9x5snwWT9gquNKmDC.jpg",
-    "logo": null,
-    "rating": 7.229,
-    "year": "2009"
+    "player": "https://awnagk.gviudclrb.com/vod/660BC61289A94017A3F2E60FA195C250_media.mp4",
+    "id": "10198",
+    "nome": "A Princesa e o Sapo",
+    "capa": "https://image.tmdb.org/t/p/w500/5JQbaVcFd9x5snwWT9gquNKmDC.jpg",
+    "categoria": "Animação",
+    "idade": "L"
   },
   {
-    "id": 3933,
-    "title": "A Noiva Cadáver",
-    "poster": "https://image.tmdb.org/t/p/w500/nT7W8LfhzVybfFsnQJ4qQfqn5KX.jpg",
-    "logo": null,
-    "rating": 7.592,
-    "year": "2005"
-  },
-  {
-    "id": 1022789,
-    "title": "Divertida Mente 2 (Inside Out 2)",
-    "poster": "https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",
-    "logo": null,
-    "rating": 7.545,
-    "year": "2024"
-  },
-  {
-    "id": 301528,
-    "title": "Toy Story 4",
-    "poster": "https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",
-    "logo": null,
-    "rating": 7.462,
-    "year": "2019"
-  },
-  {
-    "id": 10193,
-    "title": "Toy Story 3",
-    "poster": "https://image.tmdb.org/t/p/w500/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
-    "logo": null,
-    "rating": 7.8,
-    "year": "2010"
-  },
-  {
-    "id": 863,
-    "title": "Toy Story 2",
-    "poster": "https://image.tmdb.org/t/p/w500/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
-    "logo": null,
-    "rating": 7.616,
-    "year": "1999"
-  },
-  {
-    "id": 862,
-    "title": "Toy Story: Um Mundo de Aventuras (Toy Story)",
-    "poster": "https://image.tmdb.org/t/p/w500/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",
-    "logo": null,
-    "rating": 8.0,
-    "year": "1995"
-  },
-  {
-    "id": 277834,
-    "title": "Moana: Um Mar De Aventuras",
-    "poster": "https://image.tmdb.org/t/p/w500/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
-    "logo": null,
-    "rating": 7.566,
-    "year": "2016"
-  },
-  {
-    "id": 568124,
-    "title": "Encanto",
-    "poster": "https://image.tmdb.org/t/p/w500/uWwgb89vSbNNtSPCpIKdbxqi5if.jpg",
-    "logo": null,
-    "rating": 7.566,
-    "year": "2021"
-  },
-  {
-    "id": 38757,
-    "title": "Enrolados",
-    "poster": "https://image.tmdb.org/t/p/w500/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
-    "logo": null,
-    "rating": 7.613,
-    "year": "2010"
-  },
-  {
-    "id": 14836,
-    "title": "Coraline e o Mundo Secreto",
-    "poster": "https://image.tmdb.org/t/p/w500/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
-    "logo": null,
-    "rating": 7.921,
-    "year": "2009"
-  },
-  {
-    "id": 172385,
-    "title": "Rio 2",
-    "poster": "https://image.tmdb.org/t/p/w500/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
-    "logo": null,
-    "rating": 6.5,
-    "year": "2014"
-  },
-  {
-    "id": 55301,
-    "title": "Alvin e Os Esquilos 3",
-    "poster": "https://image.tmdb.org/t/p/w500/1yk43x6M0PAq7tVsksOIcWi9k3Y.jpg",
-    "logo": null,
-    "rating": 5.708,
-    "year": "2011"
-  },
-  {
-    "id": 23398,
-    "title": "Alvin e Os Esquilos 2",
-    "poster": "https://image.tmdb.org/t/p/w500/9L9Cgl6VUlHrnjcJCBj0S338Kuo.jpg",
-    "logo": null,
-    "rating": 5.659,
-    "year": "2009"
+    "player": "http://awnagk.gviudclrb.com/vod/61F1D61AB0AB4226B21F0C2072D08A38_media.mp4",
+    "id": "3933",
+    "nome": "A Noiva Cadáver",
+    "capa": "https://image.tmdb.org/t/p/w500/nT7W8LfhzVybfFsnQJ4qQfqn5KX.jpg",
+    "categoria": "Romance",
+    "idade": "L"
+  },
+  {
+    "player": "https://fcoidok.cisantkdh.com/vod/407D0DFC43894AA78DFF441B552395E9_media.mp4",
+    "id": "1022789",
+    "nome": "Divertida Mente 2",
+    "capa": "https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "http://fcoidok.cisantkdh.com:80/vod/51B2ABCDB1D94B2287366FECA4C3DF6C_media.mp4",
+    "id": "301528",
+    "nome": "Toy Story 4",
+    "capa": "https://image.tmdb.org/t/p/w500/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+    "categoria": "Família",
+    "idade": "L"
+  },
+  {
+    "player": null,
+    "id": "10193",
+    "nome": "Toy Story 3",
+    "capa": "https://image.tmdb.org/t/p/w500/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "https://fcoidok.cisantkdh.com/vod/78B4C609131C4AB49D4F771AAA379F31_media.mp4",
+    "id": "863",
+    "nome": "Toy Story 2",
+    "capa": "https://image.tmdb.org/t/p/w500/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "https://fcoidok.cisantkdh.com/vod/95E69D0013DE4C83AAF47CFE3868B1E9_media.mp4",
+    "id": "862",
+    "nome": "Toy Story: Um Mundo de Aventuras",
+    "capa": "https://image.tmdb.org/t/p/w500/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",
+    "categoria": "Família",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/F435B99F31D047F0AF2A9E141E536CBD_media.mp4",
+    "id": "277834",
+    "nome": "Moana: Um Mar De Aventuras",
+    "capa": "https://image.tmdb.org/t/p/w500/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
+    "categoria": "Aventura",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/E96DDD66CFC34C6F93E2D508A5A57A17_media.mp4",
+    "id": "568124",
+    "nome": "Encanto",
+    "capa": "https://image.tmdb.org/t/p/w500/uWwgb89vSbNNtSPCpIKdbxqi5if.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": null,
+    "id": "38757",
+    "nome": "Enrolados",
+    "capa": "https://image.tmdb.org/t/p/w500/wZzVkdnc0kw20lSJc13ZmgTPah3.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/FA4AB74AB19644B78CB67AFBAD98CFEC_media.mp4",
+    "id": "14836",
+    "nome": "Coraline e o Mundo Secreto",
+    "capa": "https://image.tmdb.org/t/p/w500/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/870B3EC8CD4247FB889AB41AD6C743F6_media.mp4",
+    "id": "172385",
+    "nome": "Rio 2",
+    "capa": "https://image.tmdb.org/t/p/w500/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg",
+    "categoria": "Animação",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/46E879F481C449F79D234E753802028D_media.mp4",
+    "id": "55301",
+    "nome": "Alvin e Os Esquilos 3",
+    "capa": "https://image.tmdb.org/t/p/w500/1yk43x6M0PAq7tVsksOIcWi9k3Y.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
+  },
+  {
+    "player": "http://awnagk.gviudclrb.com/vod/7817CDCCF6A942A4B548FB2D4B8117BE_media.mp4",
+    "id": "23398",
+    "nome": "Alvin e Os Esquilos 2",
+    "capa": "https://image.tmdb.org/t/p/w500/9L9Cgl6VUlHrnjcJCBj0S338Kuo.jpg",
+    "categoria": "Comédia",
+    "idade": "L"
   }
 ]
