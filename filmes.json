@@ -1526,5 +1526,13 @@
     "capa": "https://image.tmdb.org/t/p/w500/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg",
     "categoria": "Mistério",
     "idade": "L"
+  },
+  {
+    "player": "https://raw.githubusercontent.com/WaveLy2308/api_pobreflix_filmes/refs/heads/main/filmes.json",
+    "id": "124364_S1E2",
+    "nome": "Origem - T1E2",
+    "capa": "https://image.tmdb.org/t/p/w500/eK9ZDIq7gPFRJ0GGaWvgrXLZgXX.jpg",
+    "categoria": "Mistério",
+    "idade": "L"
   }
 ]
