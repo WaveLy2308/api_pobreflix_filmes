@@ -1,80 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script type="application/ld+json">
 {
-  "id": 241259,
-  "title": "Alice Através Do Espelho 2",
-  "overview": "Alice retorna após uma longa viagem pelo mundo, e reencontra a mãe. No casarão de uma grande festa, ela percebe a presença de um espelho mágico. A jovem atravessa o objeto e retorna ao País das Maravilhas, onde descobre que o Chapeleiro Maluco corre risco de morte após fazer uma descoberta sobre seu passado. Para salvar o amigo, Alice deve conversar com o Tempo para voltar às vésperas de um evento traumático e mudar o destino do Chapeleiro. Nesta aventura, também descobre um trauma que separou as irmãs Rainha Branca e Rainha Vermelha.",
-  "mp4_link": null,
-  "poster_path": "/xHANJfW7hk2weM532IpUthgAQfo.jpg",
-  "backdrop_path": "/A6d09KtZKdVGSg0gzsldjDwwvhD.jpg",
-  "release_date": "2016-05-25",
-  "vote_average": 6.566,
-  "runtime": 113,
-  "genres": [
-    "Aventura",
-    "Família",
-    "Fantasia"
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Alice Através Do Espelho 2 - 🕸️ PK",
+  "description": "Assista Alice Através Do Espelho 2",
+  "thumbnailUrl": [
+    "https://image.tmdb.org/t/p/w500/xHANJfW7hk2weM532IpUthgAQfo.jpg"
   ],
-  "cast": [
-    {
-      "name": "Mia Wasikowska",
-      "character": "Alice Kingsleigh",
-      "profile": "/xOYlAZsLwFZ0gNHLnt1Hzuo2yqN.jpg"
+  "uploadDate": "2023-09-29T00:00:00+00:00",
+  "inLanguage": "pt",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
     },
-    {
-      "name": "Johnny Depp",
-      "character": "Tarrant Hightopp / Mad Hatter",
-      "profile": "/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
-    },
-    {
-      "name": "Anne Hathaway",
-      "character": "Mirana / White Queen",
-      "profile": "/g2ozigjyCoSZmMnwo4fyhhJjslM.jpg"
-    },
-    {
-      "name": "Helena Bonham Carter",
-      "character": "Iracebeth / Red Queen",
-      "profile": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
-    },
-    {
-      "name": "Sacha Baron Cohen",
-      "character": "Time",
-      "profile": "/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
-    },
-    {
-      "name": "Matt Lucas",
-      "character": "Tweedledee / Tweedledum",
-      "profile": "/2OhGLJqiknaWlbTkG2KDwT935km.jpg"
-    },
-    {
-      "name": "Alan Rickman",
-      "character": "Absolem / Caterpillar (voice)",
-      "profile": "/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
-    },
-    {
-      "name": "Stephen Fry",
-      "character": "Cheshire Cat (voice)",
-      "profile": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
-    },
-    {
-      "name": "Michael Sheen",
-      "character": "Nivens McTwisp / White Rabbit (voice)",
-      "profile": "/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
-    },
-    {
-      "name": "Timothy Spall",
-      "character": "Bayard Hamar / Bloodhound (voice)",
-      "profile": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
-    }
-  ],
-  "trailers": [
-    {
-      "name": "Alice: Através do Espelho - Trailer Dublado",
-      "key": "nNZ1LQQqHX0",
-      "site": "YouTube"
-    },
-    {
-      "name": "Alice Através do Espelho - Trailer Legendado",
-      "key": "6JtpGLMTyY4",
-      "site": "YouTube"
-    }
-  ]
+    "userInteractionCount": 5237
+  },
+  "duration": "PT1H49M",
+  "contentUrl": "",
+  "embedUrl": ""
 }
+</script>
+<title>Alice Através Do Espelho 2 - 🕸️ PK</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://redetoons.cards/v/filme/241259">
+<link rel="alternate" hreflang="pt-BR" href="https://redetoons.cards/v/filme/241259">
+<link rel="alternate" hreflang="en" href="https://redetoons.cards/en/v/filme/241259">
+<link rel="alternate" hreflang="x-default" href="https://redetoons.cards/v/filme/241259">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:locale:alternate" content="en_US">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+background: #1a1a1a;
+color: #eee;
+font-family: -apple-system, sans-serif;
+padding: 12px;
+max-width: 480px;
+margin: 0 auto;
+}
+a { color: #ccc; text-decoration: none; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 0;
+}
+.back svg { opacity: .85; }
+.back:active svg { opacity: 1; }
+
+h1 { font-size: 20px; margin: 8px 0 4px; }
+h2 { font-size: 14px; color: #999; margin-bottom: 12px; }
+
+.sh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 10px;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sh:active { background: #222; }
+.tg { font-size: 12px; color: #888; }
+
+.el { background: #151515; }
+.ep {
+  display: block;
+  padding: 10px 14px;
+  border-bottom: 1px solid #222;
+  color: #bbb;
+  font-size: 14px;
+}
+.ep:active { background: #222; }
+.ep.active {
+  color: #e50914;
+  font-weight: 700;
+  background: #1c0a0a;
+}
+</style>
+</head>
+<body>
+<img src="https://image.tmdb.org/t/p/w500/xHANJfW7hk2weM532IpUthgAQfo.jpg" alt="Alice Através Do Espelho 2" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
+<a class="back" href="https://redetoons.cards/v/filme/241259">
+<svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+<path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg>
+</a>
+<h1>Alice Através Do Espelho 2</h1>
+<p style="color:#aaa;font-size:13px;margin:4px 0 2px">⏱ 1h 49min</p>
+<script>
+function t(id, el) {
+var e = document.getElementById(id);
+var s = el.querySelector('.tg');
+if (e.style.display === 'none') {
+e.style.display = 'block';
+s.textContent = '▲';
+} else {
+e.style.display = 'none';
+s.textContent = '▼';
+}
+}
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"ec18ecbb58544c9087a6326cd4edc0be","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
