@@ -1,68 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script type="application/ld+json">
 {
-  "id": 73723,
-  "title": "O Lorax: Em Busca Da Trúfula Perdida",
-  "overview": "O menino Ted (Zac Efron) descobriu que o sonho de sua paixão, a bela Audrey (Taylor Swift), é ver uma árvore de verdade, algo em extinção. Disposto a realizar este desejo, ele embarca numa aventura por uma terra desconhecida, cheia de cor, natureza e árvores. É lá que conhece também o simpático e ao mesmo tempo rabugento Lorax (Danny DeVito), uma criatura curiosa preocupada com o futuro de seu próprio mundo.",
-  "mp4_link": "http://awnagk.gviudclrb.com/vod/EA37F402EB61450E86AAEFE78BE950CC_media.mp4",
-  "poster_path": "/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg",
-  "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
-  "release_date": "2012-03-01",
-  "vote_average": 6.536,
-  "runtime": 86,
-  "genres": [
-    "Animação",
-    "Família"
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "O Lorax: Em Busca Da Trúfula Perdida - 🕸️ PK",
+  "description": "Assista O Lorax: Em Busca Da Trúfula Perdida",
+  "thumbnailUrl": [
+    "https://image.tmdb.org/t/p/w500/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg"
   ],
-  "cast": [
-    {
-      "name": "Danny DeVito",
-      "character": "The Lorax (voice)",
-      "profile": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+  "uploadDate": "2023-09-29T00:00:00+00:00",
+  "inLanguage": "pt",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
     },
-    {
-      "name": "Ed Helms",
-      "character": "Once-ler (voice)",
-      "profile": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-    },
-    {
-      "name": "Zac Efron",
-      "character": "Ted Wiggins (voice)",
-      "profile": "/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg"
-    },
-    {
-      "name": "Rob Riggle",
-      "character": "Mr. Aloysius O'Hare (voice)",
-      "profile": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
-    },
-    {
-      "name": "Taylor Swift",
-      "character": "Audrey (voice)",
-      "profile": "/rixYX4rVlWUhg0BWvclkFUNVYht.jpg"
-    },
-    {
-      "name": "Jenny Slate",
-      "character": "Mrs. Wiggins (voice)",
-      "profile": "/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
-    },
-    {
-      "name": "Betty White",
-      "character": "Grammy Norma (voice)",
-      "profile": "/2Vlr5E1EoD4GglLHoSolLztBQWM.jpg"
-    },
-    {
-      "name": "Nasim Pedrad",
-      "character": "Once-ler's Mom (voice)",
-      "profile": "/vsTcEjvHi6CpkRPiASOfYXl2bNq.jpg"
-    },
-    {
-      "name": "Joel Swetow",
-      "character": "1st Marketing Guy (voice)",
-      "profile": "/eYGiPqOy65ldNUfOZ5liRETs7ok.jpg"
-    },
-    {
-      "name": "Michael Beattie",
-      "character": "2nd Marketing Guy (voice)",
-      "profile": "/gDuLXdt6xXMjGOmdqoLymyra55n.jpg"
-    }
-  ],
-  "trailers": []
+    "userInteractionCount": 5237
+  },
+  "duration": "PT1H49M",
+  "contentUrl": "http://awnagk.gviudclrb.com/vod/EA37F402EB61450E86AAEFE78BE950CC_media.mp4",
+  "embedUrl": "http://awnagk.gviudclrb.com/vod/EA37F402EB61450E86AAEFE78BE950CC_media.mp4"
 }
+</script>
+<title>O Lorax: Em Busca Da Trúfula Perdida - 🕸️ PK</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://redetoons.cards/v/filme/73723">
+<link rel="alternate" hreflang="pt-BR" href="https://redetoons.cards/v/filme/73723">
+<link rel="alternate" hreflang="en" href="https://redetoons.cards/en/v/filme/73723">
+<link rel="alternate" hreflang="x-default" href="https://redetoons.cards/v/filme/73723">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:locale:alternate" content="en_US">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+background: #1a1a1a;
+color: #eee;
+font-family: -apple-system, sans-serif;
+padding: 12px;
+max-width: 480px;
+margin: 0 auto;
+}
+a { color: #ccc; text-decoration: none; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 0;
+}
+.back svg { opacity: .85; }
+.back:active svg { opacity: 1; }
+
+h1 { font-size: 20px; margin: 8px 0 4px; }
+h2 { font-size: 14px; color: #999; margin-bottom: 12px; }
+
+.sh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 10px;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sh:active { background: #222; }
+.tg { font-size: 12px; color: #888; }
+
+.el { background: #151515; }
+.ep {
+  display: block;
+  padding: 10px 14px;
+  border-bottom: 1px solid #222;
+  color: #bbb;
+  font-size: 14px;
+}
+.ep:active { background: #222; }
+.ep.active {
+  color: #e50914;
+  font-weight: 700;
+  background: #1c0a0a;
+}
+</style>
+</head>
+<body>
+<img src="https://image.tmdb.org/t/p/w500/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg" alt="O Lorax: Em Busca Da Trúfula Perdida" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
+<a class="back" href="https://redetoons.cards/v/filme/73723">
+<svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+<path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg>
+</a>
+<h1>O Lorax: Em Busca Da Trúfula Perdida</h1>
+<p style="color:#aaa;font-size:13px;margin:4px 0 2px">⏱ 1h 49min</p>
+<script>
+function t(id, el) {
+var e = document.getElementById(id);
+var s = el.querySelector('.tg');
+if (e.style.display === 'none') {
+e.style.display = 'block';
+s.textContent = '▲';
+} else {
+e.style.display = 'none';
+s.textContent = '▼';
+}
+}
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"ec18ecbb58544c9087a6326cd4edc0be","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
