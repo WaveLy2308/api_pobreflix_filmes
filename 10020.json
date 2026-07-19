@@ -1,76 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script type="application/ld+json">
 {
-  "id": 10020,
-  "title": "A Bela e a Fera 19",
-  "overview": "Em uma pequena aldeia da França vive Belle, uma jovem inteligente que é considerada estranha pelo moradores da localidade, e seu pai, Maurice, um inventor que é visto como um louco. Ela é cortejada por Gaston, que quer casar com ela. Mas apesar de todas as jovens do lugarejo o acharem um homem bonito, Belle não o suporta, pois vê nele uma pessoa primitiva e convencida. Quando o pai de Belle vai para uma feira demonstrar sua nova invenção, ele acaba se perdendo na floresta e é atacado por lobos. Desesperado, Maurice procura abrigo em um castelo, mas acaba se tornando prisioneiro da Fera, o senhor do castelo, que na verdade é um príncipe que foi amaldiçoado por uma feiticeira quando negou abrigo a ela.",
-  "mp4_link": "http://awnagk.gviudclrb.com:80/vod/5702FC1D17154239BE4F2213DE9B6F2F_media.mp4",
-  "poster_path": "/is4c02QuP70BCVLp27SSlDeByoe.jpg",
-  "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
-  "release_date": "1991-10-22",
-  "vote_average": 7.728,
-  "runtime": 110,
-  "genres": [
-    "Romance",
-    "Família",
-    "Animação",
-    "Fantasia"
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "A Bela e a Fera 19 - 🕸️ PK",
+  "description": "Assista A Bela e a Fera 19",
+  "thumbnailUrl": [
+    "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg"
   ],
-  "cast": [
-    {
-      "name": "Paige O'Hara",
-      "character": "Belle (voice)",
-      "profile": "/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+  "uploadDate": "2023-09-29T00:00:00+00:00",
+  "inLanguage": "pt",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
     },
-    {
-      "name": "Robby Benson",
-      "character": "Beast (voice)",
-      "profile": "/rYcDiM9LrStdlcb80N3WAR2CsHX.jpg"
-    },
-    {
-      "name": "Richard White",
-      "character": "Gaston (voice)",
-      "profile": "/ffrXvosdpVWd00neXUyposGNViF.jpg"
-    },
-    {
-      "name": "Jerry Orbach",
-      "character": "Lumiere (voice)",
-      "profile": "/36Bsh8VKClXn6diVnEbDLgniBF4.jpg"
-    },
-    {
-      "name": "David Ogden Stiers",
-      "character": "Cogsworth (voice)",
-      "profile": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
-    },
-    {
-      "name": "Angela Lansbury",
-      "character": "Mrs. Potts (voice)",
-      "profile": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
-    },
-    {
-      "name": "Rex Everhart",
-      "character": "Maurice (voice)",
-      "profile": "/dX5HOEcUl6Amx9btPN3jCnSloOO.jpg"
-    },
-    {
-      "name": "Jesse Corti",
-      "character": "Lefou (voice)",
-      "profile": "/oI6zfkWgkMP3UFT5KCi5B6etzCa.jpg"
-    },
-    {
-      "name": "Bradley Pierce",
-      "character": "Chip (voice)",
-      "profile": "/j6iW0vVA23GQniAPSYI6mi4hiEW.jpg"
-    },
-    {
-      "name": "Hal Smith",
-      "character": "Philippe (voice)",
-      "profile": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
-    }
-  ],
-  "trailers": [
-    {
-      "name": "A Bela e a Fera 3D: Trailer Oficial Dublado",
-      "key": "MZsYDpafGTY",
-      "site": "YouTube"
-    }
-  ]
+    "userInteractionCount": 5237
+  },
+  "duration": "PT1H49M",
+  "contentUrl": "http://awnagk.gviudclrb.com:80/vod/5702FC1D17154239BE4F2213DE9B6F2F_media.mp4",
+  "embedUrl": "http://awnagk.gviudclrb.com:80/vod/5702FC1D17154239BE4F2213DE9B6F2F_media.mp4"
 }
+</script>
+<title>A Bela e a Fera 19 - 🕸️ PK</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://redetoons.cards/v/filme/10020">
+<link rel="alternate" hreflang="pt-BR" href="https://redetoons.cards/v/filme/10020">
+<link rel="alternate" hreflang="en" href="https://redetoons.cards/en/v/filme/10020">
+<link rel="alternate" hreflang="x-default" href="https://redetoons.cards/v/filme/10020">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:locale:alternate" content="en_US">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+background: #1a1a1a;
+color: #eee;
+font-family: -apple-system, sans-serif;
+padding: 12px;
+max-width: 480px;
+margin: 0 auto;
+}
+a { color: #ccc; text-decoration: none; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 0;
+}
+.back svg { opacity: .85; }
+.back:active svg { opacity: 1; }
+
+h1 { font-size: 20px; margin: 8px 0 4px; }
+h2 { font-size: 14px; color: #999; margin-bottom: 12px; }
+
+.sh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 10px;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sh:active { background: #222; }
+.tg { font-size: 12px; color: #888; }
+
+.el { background: #151515; }
+.ep {
+  display: block;
+  padding: 10px 14px;
+  border-bottom: 1px solid #222;
+  color: #bbb;
+  font-size: 14px;
+}
+.ep:active { background: #222; }
+.ep.active {
+  color: #e50914;
+  font-weight: 700;
+  background: #1c0a0a;
+}
+</style>
+</head>
+<body>
+<img src="https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg" alt="A Bela e a Fera 19" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
+<a class="back" href="https://redetoons.cards/v/filme/10020">
+<svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+<path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg>
+</a>
+<h1>A Bela e a Fera 19</h1>
+<p style="color:#aaa;font-size:13px;margin:4px 0 2px">⏱ 1h 49min</p>
+<script>
+function t(id, el) {
+var e = document.getElementById(id);
+var s = el.querySelector('.tg');
+if (e.style.display === 'none') {
+e.style.display = 'block';
+s.textContent = '▲';
+} else {
+e.style.display = 'none';
+s.textContent = '▼';
+}
+}
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"ec18ecbb58544c9087a6326cd4edc0be","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
