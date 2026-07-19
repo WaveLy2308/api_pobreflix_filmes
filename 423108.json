@@ -1,75 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<script type="application/ld+json">
 {
-  "id": 423108,
-  "title": "Invocação Do Mal 3: A Ordem Do Demônio",
-  "overview": "Um dos casos mais sensacionais de seus arquivos começa com a luta pela alma de um garoto e depois os leva para além de qualquer coisa que já tenham visto. Esse caso marcou a primeira vez na história dos Estados Unidos em que um suspeito de assassinato alegou possessão demoníaca como defesa.",
-  "mp4_link": "http://fcoidok.cisantkdh.com/vod/BD621748EA8749CEA7A5922216C55806_media.mp4",
-  "poster_path": "/fNu88PdpStJGe09AUYmqTn6NEXB.jpg",
-  "backdrop_path": "/p26c040MErns7DJYhisa1CpVB5i.jpg",
-  "release_date": "2021-05-25",
-  "vote_average": 7.347,
-  "runtime": 111,
-  "genres": [
-    "Terror",
-    "Mistério",
-    "Thriller"
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Invocação Do Mal 3: A Ordem Do Demônio - 🕸️ PK",
+  "description": "Assista Invocação Do Mal 3: A Ordem Do Demônio",
+  "thumbnailUrl": [
+    "https://image.tmdb.org/t/p/w500/fNu88PdpStJGe09AUYmqTn6NEXB.jpg"
   ],
-  "cast": [
-    {
-      "name": "Vera Farmiga",
-      "character": "Lorraine Warren",
-      "profile": "/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+  "uploadDate": "2023-09-29T00:00:00+00:00",
+  "inLanguage": "pt",
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
     },
-    {
-      "name": "Patrick Wilson",
-      "character": "Ed Warren",
-      "profile": "/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
-    },
-    {
-      "name": "Sterling Jerins",
-      "character": "Judy Warren",
-      "profile": "/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg"
-    },
-    {
-      "name": "Sarah Catherine Hook",
-      "character": "Debbie Glatzel",
-      "profile": "/hLXqA5OZYX9I9BTj82KlVYqgE2i.jpg"
-    },
-    {
-      "name": "Ruairí O'Connor",
-      "character": "Arne Cheyne Johnson",
-      "profile": "/lSnYC598qzvh20VfSDOa3tpcLBo.jpg"
-    },
-    {
-      "name": "Julian Hilliard",
-      "character": "David Glatzel",
-      "profile": "/lp1IJliBZb9OFP5KK09HjSGOsau.jpg"
-    },
-    {
-      "name": "Charlene Amoia",
-      "character": "Judy Glatzel",
-      "profile": "/8hJNPw3XCErifcZZPOfd20JmiTC.jpg"
-    },
-    {
-      "name": "John Noble",
-      "character": "Father Kastner",
-      "profile": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
-    },
-    {
-      "name": "Eugenie Bondurant",
-      "character": "The Occultist",
-      "profile": "/9ULAELEKNha7VCJhRWoer58NcJe.jpg"
-    },
-    {
-      "name": "Shannon Kook",
-      "character": "Drew Thomas",
-      "profile": "/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg"
-    }
-  ],
-  "trailers": [
-    {
-      "name": "INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO - Trailer Oficial",
-      "key": "anDtrp34xig",
-      "site": "YouTube"
-    }
-  ]
+    "userInteractionCount": 5237
+  },
+  "duration": "PT1H49M",
+  "contentUrl": "http://fcoidok.cisantkdh.com/vod/BD621748EA8749CEA7A5922216C55806_media.mp4",
+  "embedUrl": "http://fcoidok.cisantkdh.com/vod/BD621748EA8749CEA7A5922216C55806_media.mp4"
 }
+</script>
+<title>Invocação Do Mal 3: A Ordem Do Demônio - 🕸️ PK</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://redetoons.cards/v/filme/423108">
+<link rel="alternate" hreflang="pt-BR" href="https://redetoons.cards/v/filme/423108">
+<link rel="alternate" hreflang="en" href="https://redetoons.cards/en/v/filme/423108">
+<link rel="alternate" hreflang="x-default" href="https://redetoons.cards/v/filme/423108">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:locale:alternate" content="en_US">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+background: #1a1a1a;
+color: #eee;
+font-family: -apple-system, sans-serif;
+padding: 12px;
+max-width: 480px;
+margin: 0 auto;
+}
+a { color: #ccc; text-decoration: none; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 0;
+}
+.back svg { opacity: .85; }
+.back:active svg { opacity: 1; }
+
+h1 { font-size: 20px; margin: 8px 0 4px; }
+h2 { font-size: 14px; color: #999; margin-bottom: 12px; }
+
+.sh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 10px;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+}
+.sh:active { background: #222; }
+.tg { font-size: 12px; color: #888; }
+
+.el { background: #151515; }
+.ep {
+  display: block;
+  padding: 10px 14px;
+  border-bottom: 1px solid #222;
+  color: #bbb;
+  font-size: 14px;
+}
+.ep:active { background: #222; }
+.ep.active {
+  color: #e50914;
+  font-weight: 700;
+  background: #1c0a0a;
+}
+</style>
+</head>
+<body>
+<img src="https://image.tmdb.org/t/p/w500/fNu88PdpStJGe09AUYmqTn6NEXB.jpg" alt="Invocação Do Mal 3: A Ordem Do Demônio" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
+<a class="back" href="https://redetoons.cards/v/filme/423108">
+<svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+<path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg>
+</a>
+<h1>Invocação Do Mal 3: A Ordem Do Demônio</h1>
+<p style="color:#aaa;font-size:13px;margin:4px 0 2px">⏱ 1h 49min</p>
+<script>
+function t(id, el) {
+var e = document.getElementById(id);
+var s = el.querySelector('.tg');
+if (e.style.display === 'none') {
+e.style.display = 'block';
+s.textContent = '▲';
+} else {
+e.style.display = 'none';
+s.textContent = '▼';
+}
+}
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"ec18ecbb58544c9087a6326cd4edc0be","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
