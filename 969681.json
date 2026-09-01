@@ -8,9 +8,9 @@
   "name": "Homem-Aranha: Um Novo Dia - 🕸️ PK",
   "description": "Assista Homem-Aranha: Um Novo Dia",
   "thumbnailUrl": [
-    "https://image.tmdb.org/t/p/original/84dw3Sb4IsUk1dUhAbvBMJGVNzi.jpg"
+    "https://image.tmdb.org/t/p/w500/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg"
   ],
-  "uploadDate": "2026-07-28T00:00:00+00:00",
+  "uploadDate": "2026-07-29T00:00:00+00:00",
   "inLanguage": "pt",
   "interactionStatistic": {
     "@type": "InteractionCounter",
@@ -20,8 +20,8 @@
     "userInteractionCount": 5237
   },
   "duration": "PT2H23M",
-  "contentUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4",
-  "embedUrl": "https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/2/G/V/3/K/GV3KA.aaa.mp4"
+  "contentUrl": "https://hugh.cdn.rumble.cloud/video/fww1/8e/s8/2/0/W/r/S/0WrSA.aaa.mp4",
+  "embedUrl": "https://hugh.cdn.rumble.cloud/video/fww1/8e/s8/2/0/W/r/S/0WrSA.aaa.mp4"
 }
 </script>
 <title>Homem-Aranha: Um Novo Dia - 🕸️ PK</title>
@@ -89,7 +89,7 @@ h2 { font-size: 14px; color: #999; margin-bottom: 12px; }
 </style>
 </head>
 <body>
-<img src="https://image.tmdb.org/t/p/original/84dw3Sb4IsUk1dUhAbvBMJGVNzi.jpg" alt="Homem-Aranha: Um Novo Dia" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
+<img src="https://image.tmdb.org/t/p/w500/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" alt="Homem-Aranha: Um Novo Dia" loading="lazy" style="width:100%;max-height:220px;object-fit:cover;border-radius:8px">
 <a class="back" href="https://redetoons.cards/filme/969681">
 <svg width="28" height="28" viewBox="0 0 24 24" fill="white">
 <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
